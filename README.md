@@ -17,7 +17,7 @@ Soft Tools
 ### Android 篇
 Android专题软件篇.
 
-### 安全逆向
+### [安全逆向](https://github.com/skyseraph/Soft-Tools/blob/master/docs/Reverse.md)
 常用安全逆向工具(混淆/反编译等),包含Android/Java, So/C++, .NET/Dll等。
 
 
