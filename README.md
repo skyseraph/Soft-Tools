@@ -8,23 +8,25 @@
 
 |	目录	|	简介		|
 |-------	|----------		|
-|	[Windows](docs/Windows)	|	Windows Soft Tools	|
-|	[Mac](docs/Mac)			|	Mac Soft Tools		|
-|	[Chrome](docs/Chrome)	|	Chrome Plugin Tools	|
+|	[Windows](docs/Windows.md)	|	Windows Soft Tools	|
+|	[Mac](docs/Mac.md)			|	Mac Soft Tools		|
+|	[Chrome](docs/Chrome.md)	|	Chrome Plugin Tools	|
 
 ## 专题篇  
 
 |	目录	|	简介		|
 |-------	|----------		|
-|	[Android](docs/Android)	|	Android Tools	|
-|	[iOS](docs/iOS)			|	iOS Tools		|
-|	[安全逆向](docs/Reverse)|	Reverse Tools	|
+|	[Android](docs/Android.md)	|	Android Tools	|
+|	[iOS](docs/iOS.md)			|	iOS Tools		|
+|	[安全逆向](docs/Reverse.md)|	Reverse Tools	|
 
 
 # Others
 
 ## Update    
-2017.3.22 Create  
+
+[同步更新](http://skyseraph.com/2014/08/06/Tools/IT生涯，我的常用软件清单/)   
+2017.3.22 Create   
 
 ## 更好的建议
 
