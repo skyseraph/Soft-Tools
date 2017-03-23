@@ -54,20 +54,20 @@ Reverse Tools
 
 - [.Net Reflector](http://www.red-gate.com/products/dotnet-development/reflector/) & Reflexil RedGate开发的.Net逆向工具(反编译查看)[加上Reflexil插件](https://github.com/sailro/reflexil)(开源)用于编辑,修改/注入
 
-- Depends
+- [Dependency Walker](http://www.dependencywalker.com/)
 
 - [dotPeek](https://www.jetbrains.com/decompiler/)
 
-- De4Dot(开源) 脱壳/反混淆工具  
+- [De4Dot(开源) 脱壳/反混淆工具](https://github.com/0xd4d/de4dot)   
 使用: de4dot.exe xx.dll -p un
 
-- DILE Dotnet IL Editor 调试工具
+- [DILE Dotnet IL Editor](https://sourceforge.net/projects/dile/) 调试工具
 
 - ilasm & ildasm(微软官方) 把IL文件重新生成DLL的功能,[使用参考](http://www.cnblogs.com/dudu/archive/2011/05/17/ildasm_ilasm_il.html) 
 
 - [Just Decompile](http://www.telerik.com/products/decompiler.aspx)  反编译工具
 
-- Dotfuscator, Visual Studio自带 混淆工具, 目录为"**\Microsoft Visual Studio 14.0\PreEmptive Solutions\Dotfuscator and Analytics CommunityEdition\dotfuscator.exe "
+- [Dotfuscator](https://www.preemptive.com/products/dotfuscator/overview), Visual Studio自带 混淆工具, 目录为"**\Microsoft Visual Studio 14.0\PreEmptive Solutions\Dotfuscator and Analytics CommunityEdition\dotfuscator.exe "
 
 - [Codeguard](https://www.codeguard.com/) 混淆工具
 
@@ -77,9 +77,13 @@ Reverse Tools
 
 - [ConfuserEx]( https://yck1509.github.io/ConfuserEx/  )(开源)混淆工具, [下载地址](https://github.com/yck1509/ConfuserEx/releases) 
 
-- 实用参考  
+
+## 实用参考  
+
 [关于 .Net 逆向的那些工具：反编译篇 ](http://www.aneasystone.com/archives/2015/06/net-reverse-decompiling.html)  
-[破解NET的四大神器](http://www.52pojie.cn/thread-174802-1-1.html )     
+
+[破解NET的四大神器](http://www.52pojie.cn/thread-174802-1-1.html )    
+
 [破解Java to C# Converter](http://wzmlj.com/yiyan127/p/CSharp_CrackJava2CSharpConverter.html)    
 
 
