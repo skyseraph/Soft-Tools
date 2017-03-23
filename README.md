@@ -1,25 +1,38 @@
 # Soft-Tools
-Soft Tools
+最最最实用的工具荟萃，没有之一.
 
 
 # MENU
 
-## 通用篇
+## 通用篇  
 
-### Windows篇
+|	目录	|	简介		|
+|-------	|----------		|
+|	[Windows](docs/Windows)	|	Windows Soft Tools	|
+|	[Mac](docs/Mac)			|	Mac Soft Tools		|
+|	[Chrome](docs/Chrome)	|	Chrome Plugin Tools	|
 
-### Mac 篇
+## 专题篇  
 
-### Chrome 篇
+|	目录	|	简介		|
+|-------	|----------		|
+|	[Android](docs/Android)	|	Android Tools	|
+|	[iOS](docs/iOS)			|	iOS Tools		|
+|	[安全逆向](docs/Reverse)|	Reverse Tools	|
 
-## 专题篇
 
-### Android 篇
-Android专题软件篇.
+# Others
 
-### [安全逆向](https://github.com/skyseraph/Soft-Tools/blob/master/docs/Reverse.md)
-常用安全逆向工具(混淆/反编译等),包含Android/Java, So/C++, .NET/Dll等。
+## Update    
+2017.3.22 Create  
 
+## 更好的建议
+
+如果你有好的建议或意见，请移步到[issues page](https://github.com/Soft-Tools/Doc/issues) 或者给我Email(skyseraph00@126.com).  
+
+## [我的博客](http://www.skyseraph.com )
+
+http://www.skyseraph.com 
 
 [支持我](http://www.skyseraph.com)
 -------
