@@ -78,13 +78,13 @@ Windows Tools
 
 - [Intellij IDEA](http://www.jetbrains.com/idea/)
 
-- [Visual Studio](https://www.visualstudio.com/)  & Visual_Assist_X , [VS2015 破解版](http://www.cnblogs.com/dunitian/p/4667038.html)
+- [Visual Studio](https://www.visualstudio.com/)  & [Visual_Assist_X](http://www.wholetomato.com/) , [VS2015 破解版](http://www.cnblogs.com/dunitian/p/4667038.html)
 
 - [Pycharm-community](http://www.jetbrains.com/pycharm/)
 
 - [QT](https://www.qt.io/)
 
-- Android Studio & Android SDK & Android NDK & Gradle   
+- [Android Studio](https://developer.android.com/studio/index.html) & Android SDK & [Android NDK](https://developer.android.com/ndk/index.html) & Gradle   
  [androiddevtools](http://www.androiddevtools.cn/)
 
 
@@ -92,7 +92,7 @@ Windows Tools
 
 - [Unity](http://unity3d.com/unity/download/archive ), [补丁](http://unity3d.com/cn/unity/qa/patch-releases ), [破解](http://www.ceeger.com/forum/read.php?tid=23396&page=1)
 
-- Cocos
+- [Cocos](http://www.cocos.com/)
 
 > **数据库专题**
 
