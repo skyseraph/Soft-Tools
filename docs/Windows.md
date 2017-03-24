@@ -5,7 +5,7 @@ Windows Tools
 
 > 代理/翻墙
 
-- [XX-Net](http://www.sublimetext.com/) 
+- [XX-Net](https://github.com/XX-net/XX-Net) 
 
 - [lantern](https://www.getlantern.org/)  
 
