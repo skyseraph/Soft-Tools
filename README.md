@@ -13,7 +13,8 @@
 |-------	|----------		|  
 |	[Windows](docs/Windows.md)	|	Windows Soft Tools	|  
 |	[Mac](docs/Mac.md)			|	Mac Soft Tools		|  
-|	[Chrome](docs/Chrome.md)	|	Chrome Plugin Tools	|  
+|	[Chrome](docs/Chrome.md)	|	Chrome Tools	|  
+|	[Web](docs/Web.md)	|	Web Tools	|  
 
 ## 专题篇  
 
