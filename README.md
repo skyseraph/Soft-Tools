@@ -9,21 +9,25 @@
 
 ## 通用篇  
 
-|	目录	|	简介		|  
-|-------	|----------		|  
-|	[Windows](docs/Windows.md)	|	Windows Soft Tools	|  
-|	[Mac](docs/Mac.md)			|	Mac Soft Tools		|  
-|	[Chrome](docs/Chrome.md)	|	Chrome Tools	|  
-|	[Web](docs/Web.md)	|	Web Tools	|  
+|			目录					|		简介				|
+|----------------------------	|-----------------------|  
+|	[Windows](docs/Windows.md)	|	Windows Soft Tools	|
+|	[Mac](docs/Mac.md)			|	Mac Soft Tools		|
+|	[Linux](docs/Linux.md)		|	Linux Tools			|
+|	[Chrome](docs/Chrome.md)	|	Chrome Tools		|
+|	[Web](docs/Web.md)			|	Web Tools			|
 
 ## 专题篇  
 
-|	目录	|	简介		|  
-|-------	|----------		|  
-|	[Android](docs/Android.md)	|	Android Tools	|  
-|	[iOS](docs/iOS.md)			|	iOS Tools		|  
-|	[Unity](docs/Unity.md)			|	Unity Tools		|    
-|	[安全逆向](docs/Reverse.md)|	Reverse Tools	|  
+|				目录					|		简介			|  
+|----------------------------------	|--------------		|
+|	[Android](docs/Android.md)		|	Android Tools	|
+|	[iOS](docs/iOS.md)				|	iOS Tools		|
+|	[Unity](docs/Unity.md)			|	Unity Tools		|  
+|	[Git](docs/Git.md)				|	Git Commands	|  
+|	[Adb](docs/Adb.md)				|	Adb Commands	|  
+|	[测试专场](docs/Test.md)			|	Test Tools		|
+|	[安全逆向](docs/Reverse.md)		|	Reverse Tools	|
 
 
 # Others
