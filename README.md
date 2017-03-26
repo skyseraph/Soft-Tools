@@ -1,5 +1,5 @@
 # Soft-Tools
-最最最实用的工具荟萃，没有之一.
+最最最实用的工具荟萃收录，没有之一，欢迎补充.
 
 [![GitHub stars](https://img.shields.io/github/stars/skyseraph/Soft-Tools.svg?style=social&label=Star)](https://github.com/skyseraph/Soft-Tools)
 [![GitHub watchers](https://img.shields.io/github/watchers/skyseraph/Soft-Tools.svg?style=social&label=Watch)](https://github.com/skyseraph/Soft-Tools)
@@ -19,13 +19,13 @@
 
 ## 专题篇  
 
-|				目录					|		简介			|  
+|				目录					|		简介			|
 |----------------------------------	|--------------		|
 |	[Android](docs/Android.md)		|	Android Tools	|
 |	[iOS](docs/iOS.md)				|	iOS Tools		|
-|	[Unity](docs/Unity.md)			|	Unity Tools		|  
-|	[Git](docs/Git.md)				|	Git Commands	|  
-|	[Adb](docs/Adb.md)				|	Adb Commands	|  
+|	[Game](docs/Game.md)			|	Game Dev Tools	|
+|	[Git](docs/Git.md)				|	Git Commands	|
+|	[Adb](docs/Adb.md)				|	Adb Commands	|
 |	[测试专场](docs/Test.md)			|	Test Tools		|
 |	[安全逆向](docs/Reverse.md)		|	Reverse Tools	|
 
@@ -43,7 +43,8 @@
 
 ## [我的博客](http://www.skyseraph.com )
 
-http://www.skyseraph.com 
+[skyseraph.com](http://www.skyseraph.com) 
+
 
 [支持我](http://www.skyseraph.com)
 -------
@@ -53,3 +54,5 @@ http://www.skyseraph.com
 
 License
 -------
+
+[![license](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://github.com/skyseraph/Soft-Tools/blob/master/LICENSE)
