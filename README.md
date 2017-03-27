@@ -7,15 +7,16 @@
 
 # MENU
 
-## 通用篇  
+## 通用篇 
 
 |			目录					|		简介				|
-|----------------------------	|-----------------------|  
+|----------------------------	|-----------------------|
 |	[Windows](docs/Windows.md)	|	Windows Soft Tools	|
 |	[Mac](docs/Mac.md)			|	Mac Soft Tools		|
 |	[Linux](docs/Linux.md)		|	Linux Tools			|
 |	[Chrome](docs/Chrome.md)	|	Chrome Tools		|
 |	[Web](docs/Web.md)			|	Web Tools			|
+|	[HardWare](docs/HardWare.md)|	HardWare Tools		|
 
 ## 专题篇  
 
@@ -24,6 +25,7 @@
 |	[Android](docs/Android.md)		|	Android Tools	|
 |	[iOS](docs/iOS.md)				|	iOS Tools		|
 |	[Game](docs/Game.md)			|	Game Dev Tools	|
+|	[NFC](docs/NFC.md)				|	NFC  Tools		|
 |	[Git](docs/Git.md)				|	Git Commands	|
 |	[Adb](docs/Adb.md)				|	Adb Commands	|
 |	[测试专场](docs/Test.md)			|	Test Tools		|
