@@ -82,9 +82,5 @@ Mac Soft Tools
 - [Manually generating your SSH key in Mac OS X](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-mac-os-x) 
 
 
-[支持我](http://www.skyseraph.com)
--------
-如果你认为我值得获得一定的报酬，请使用微信或支付宝扫描下面的二维码向我捐赠。
-![](http://7xo4q8.com1.z0.glb.clouddn.com/skyseraph/2016/wx_zfb.jpg "")
 
 
