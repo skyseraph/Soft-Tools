@@ -38,7 +38,7 @@ Windows Tools
 
 - [TeamViewer](https://www.teamviewer.com/zhCN/) 远程操作电脑工具
 
-- [Clover](http://ejie.me/)
+- [Clover](http://ejie.me/) & [TotalCommander](http://www.ghisler.com/) 
 
 - [picpick](http://ngwin.com/picpick)
 
@@ -71,6 +71,9 @@ Windows Tools
 - [Apache](http://www.apache.org/)
 
 - [Cygwin](http://www.cygwin.com/)
+
+- [Windows Sysinternals](https://technet.microsoft.com/en-us/sysinternals/bb842062.aspx)
+
 
 > **IDE篇**
 
