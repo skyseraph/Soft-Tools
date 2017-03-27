@@ -18,6 +18,7 @@
 |	[Web](docs/Web.md)			|	Web Tools			|
 |	[HardWare](docs/HardWare.md)|	HardWare Tools		|
 
+
 ## 专题篇  
 
 |				目录					|		简介			|
@@ -26,22 +27,29 @@
 |	[iOS](docs/iOS.md)				|	iOS Tools		|
 |	[Game](docs/Game.md)			|	Game Dev Tools	|
 |	[NFC](docs/NFC.md)				|	NFC  Tools		|
-|	[Git](docs/Git.md)				|	Git Commands	|
-|	[Adb](docs/Adb.md)				|	Adb Commands	|
 |	[测试专场](docs/Test.md)			|	Test Tools		|
 |	[安全逆向](docs/Reverse.md)		|	Reverse Tools	|
+
+## 命令类
+
+|				目录					|		简介			|
+|----------------------------------	|--------------		|
+|	[Git](docs/Git.md)				|	Git Commands	|
+|	[Adb](docs/Adb.md)				|	Adb Commands	|
+|	[Bat](docs/Bat.md)				|	Bat Commands	|
 
 
 # Others
 
 ## Update    
 
-[同步更新](http://skyseraph.com/2014/08/06/Tools/IT生涯，我的常用软件清单/)   
-2017.3.22 Create   
+[**同步更新**](http://skyseraph.com/2014/08/06/Tools/IT生涯，我的常用软件清单/)   
+
+- 2017.3.22 Create   
 
 ## More Suggest
 
-如果你有好的建议或意见，请移步到[issues page](https://github.com/Soft-Tools/Doc/issues) 或者给我Email(skyseraph00@126.com).  
+如果你有好的建议或意见，请移步到[issues page](https://github.com/Soft-Tools/Doc/issues) 或者给我[Email](mailto:skyseraph00@126.com).  
 
 ## [我的博客](http://www.skyseraph.com )
 
