@@ -60,7 +60,7 @@ Chrome Tools
 
 - [知乎：你极力推荐的 Chrome 扩展有哪些？](https://www.zhihu.com/question/19594682/)
 
-
+- [私人珍藏的CHROME插件，吐血推荐](http://stormzhang.com/devtools/2016/01/15/google-chrome-extension/)
 
 
 
