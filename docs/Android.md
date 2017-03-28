@@ -9,6 +9,8 @@ Android Tools
 
 [下载](https://developer.android.com/studio/index.html), [国内下载](http://www.androiddevtools.cn/index.html) 
 
+[Android Studio NDK使用(CMake方式)](https://developer.android.com/studio/projects/add-native-code.html)
+
 ### 快捷键/Keymap 
 
 
