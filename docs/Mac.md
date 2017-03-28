@@ -30,6 +30,12 @@ Mac Soft Tools
 
 - [CleanMyMac](http://cleanmymac.com/) 清理系统、卸载软件，查看系统资源消耗等功能
 
+- [RescueTime](https://www.rescuetime.com/)  软件使用习惯记录和统计
+
+- [wakatime](https://wakatime.com/)  程序员编程习惯统计
+
+- [iTools](http://www.itools.cn/) iphone管理工具
+
 ## 开发工具
 
 - [Java](http://www.oracle.com/cn/index.html) Java版本管理工具[jEnv](https://github.com/gcuisinier/jenv)
