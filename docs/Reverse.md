@@ -19,7 +19,7 @@ Reverse Tools
 
 - [ClassyShark](https://github.com/google/android-classyshark) Google官方dex/apk/jar/class/aar浏览工具
 
-- APK Analyzer(AndroidStudio 2.2+) Google官方APK分析工具
+- APK Analyzer(AndroidStudio 2.2+) Google官方APK分析工具, [making-the-most-of-the-apk-analyzer](https://medium.com/google-developers/making-the-most-of-the-apk-analyzer-c066cb871ea2) 
 
 - [Smali/baksmali](https://github.com/JesusFreke/smali/wiki/smalidea) APK文件编辑工具
 
@@ -41,11 +41,12 @@ Reverse Tools
 		
 - [Introspy](https://github.com/iSECPartners/Introspy-iOS)  黑盒测试工具
 
+- [ApkStudio](https://github.com/vaibhavpandeyvpz/apkstudio)  跨平台逆向IDE
 
 
 ## C++ & So (Android)
 
-- [IDAPro](https://www.hex-rays.com/products/ida/index.shtml)  最强大的静态逆向分析工具,没有之一   [6.8破解版本](http://www.52pojie.cn/forum.php?mod=viewthread&tid=442702&extra=page%3D1%26filter%3Dtypeid%26typeid%3D123)
+- [IDAPro](https://www.hex-rays.com/products/ida/index.shtml)  最强大的静态逆向分析工具,没有之一   [IDA Pro 6.8 + All Decompilers Full Leak](http://www.52pojie.cn/forum.php?mod=viewthread&tid=442702&extra=page%3D1%26filter%3Dtypeid%26typeid%3D123)
 
 
 ## C# & Dll & EXE
