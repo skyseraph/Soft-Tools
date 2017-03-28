@@ -87,7 +87,6 @@ Reverse Tools
 
 [破解Java to C# Converter](http://wzmlj.com/yiyan127/p/CSharp_CrackJava2CSharpConverter.html)    
 
-
-
+[权威论坛-看雪](http://www.kanxue.com/)
 
 
