@@ -78,8 +78,11 @@ Reverse Tools
 
 - [ConfuserEx]( https://yck1509.github.io/ConfuserEx/  )(开源)混淆工具, [下载地址](https://github.com/yck1509/ConfuserEx/releases) 
 
+## Ohters
 
-## 实用参考  
+- [Frida](https://www.frida.re/) 动态二进制插桩(Dynamic Binary Instrumentation)框架
+
+## 实用参考   
 
 [关于 .Net 逆向的那些工具：反编译篇 ](http://www.aneasystone.com/archives/2015/06/net-reverse-decompiling.html)  
 
