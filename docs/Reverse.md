@@ -78,9 +78,9 @@ Reverse Tools
 
 - [ConfuserEx]( https://yck1509.github.io/ConfuserEx/  )(开源)混淆工具, [下载地址](https://github.com/yck1509/ConfuserEx/releases) 
 
-## Ohters
+## Others
 
-- [Frida](https://www.frida.re/) 动态二进制插桩(Dynamic Binary Instrumentation)框架
+- [Frida](https://www.frida.re/) 动态二进制插桩(Dynamic Binary Instrumentation)框架, [使用Frida来hack安卓APP（一）](http://bbs.pediy.com/thread-216645.htm)
 
 ## 实用参考   
 
