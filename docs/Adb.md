@@ -5,10 +5,21 @@ Adb commands
 
 - [Packet Sender](https://github.com/dannagle/PacketSender)  Android ADB 端口转发调试工具
 
+- [ADBWIFI](https://github.com/layerlre/ADBWIFI) Android Studio plugin for debug android app over Wi-Fi
 
 ## 常用adb命令 
 
+- adb version
+
+- adb devices adb版本
+
+- adb get-serialno 设备的序列号
+
+- adb get-state 设备状态
+
 - adb **kill-server**
+
+- adb start-server
 
 - adb **devices**  
 
@@ -20,6 +31,12 @@ Adb commands
 - adb **uninstall** [-k] <package>             
     -k 表示不删除程序运行所产生的数据和缓存目录(如软件的数据库文件)
 
+- adb pull <remote> <local>
+
+- adb push <local> <remote>
+
+- adb forward <local> <remote> 端口映射
+
 - adb shell pm clear  <package>    
 清除应用缓存
 
@@ -30,6 +47,18 @@ Adb commands
 - adb shell + cat /system/build.prop  查看手机配置信息
 
 - adb shell getprop dalvik.vm.heapsize  
+
+> **dumpsys**
+
+- [dumpsys](https://source.android.com/devices/input/diagnostics.html)  
+    dumpsys [options]
+         meminfo 显示内存信息
+         cpuinfo 显示CPU信息
+         account 显示accounts信息
+         activity 显示所有的activities的信息
+         window 显示键盘，窗口和它们的关系
+         wifi 显示wifi信息
+         and so on
 
 > **获取进程号**    
 
