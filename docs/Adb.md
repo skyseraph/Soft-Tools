@@ -23,21 +23,22 @@ Adb commands
 
 - adb **devices**  
 
-- adb **install** [-l] [-r] [-s] <file>        
+- adb **install** [-l] [-r] [-s] file        
     -l 表示锁定该程序;   
     -r 表示替换原有的apk安装;   
     -s 表示安装在SD卡内，而不是设备内部存储
 
-- adb **uninstall** [-k] <package>             
+- adb **uninstall** [-k] package             
     -k 表示不删除程序运行所产生的数据和缓存目录(如软件的数据库文件)
 
-- adb pull <remote> <local>
+- adb pull remote local
 
-- adb push <local> <remote>
+- adb push local remote
 
-- adb forward <local> <remote> 端口映射
+- adb forward local remote 端口映射  
+adb forward tcp:5555 tcp:9001 // 把PC端5555端口的数据, 转发到Android端的9001端口上.
 
-- adb shell pm clear  <package>    
+- adb shell pm clear  package    
 清除应用缓存
 
 - taskkill /f /im adb*  
@@ -48,10 +49,9 @@ Adb commands
 
 - adb shell getprop dalvik.vm.heapsize  
 
-> **dumpsys**
+> [**dumpsys**](https://source.android.com/devices/input/diagnostics.html)  
 
-- [dumpsys](https://source.android.com/devices/input/diagnostics.html)  
-    dumpsys [options]  
+- dumpsys [options]  
          meminfo 显示内存信息  
          cpuinfo 显示CPU信息  
          account 显示accounts信息  
