@@ -51,14 +51,14 @@ Adb commands
 > **dumpsys**
 
 - [dumpsys](https://source.android.com/devices/input/diagnostics.html)  
-    dumpsys [options]
-         meminfo 显示内存信息
-         cpuinfo 显示CPU信息
-         account 显示accounts信息
-         activity 显示所有的activities的信息
-         window 显示键盘，窗口和它们的关系
-         wifi 显示wifi信息
-         and so on
+    dumpsys [options]  
+         meminfo 显示内存信息  
+         cpuinfo 显示CPU信息  
+         account 显示accounts信息  
+         activity 显示所有的activities的信息  
+         window 显示键盘，窗口和它们的关系  
+         wifi 显示wifi信息  
+         and so on  
 
 > **获取进程号**    
 
