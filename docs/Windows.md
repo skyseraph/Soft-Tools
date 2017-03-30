@@ -20,6 +20,7 @@ Windows Tools
 
 - [OneNote](http://www.onenote.com/)
 
+- [EverNote](https://evernote.com/)
 
 > 系统相关
 
