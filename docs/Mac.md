@@ -36,7 +36,9 @@ Mac Soft Tools
 
 - [iTools](http://www.itools.cn/) iphone管理工具
 
-## 开发工具
+- 文件查看工具 [iFunbox](http://www.i-funbox.com/) & [iExplorer](https://iexplorer.en.softonic.com/)
+
+## 开发设计
 
 - [Java](http://www.oracle.com/cn/index.html) Java版本管理工具[jEnv](https://github.com/gcuisinier/jenv)
 
@@ -57,6 +59,9 @@ Mac Soft Tools
 - [Sketch](https://www.sketchapp.com/)
 
 - [马克鳗](http://www.getmarkman.com/) 高效的设计稿标注、测量工具
+
+- [SQLite](https://sourceforge.net/projects/sqlitebrowser/)
+
 
 ## 实用技巧
 
