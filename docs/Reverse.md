@@ -80,6 +80,31 @@ Reverse Tools
 
 - [OllyDbg](http://www.ollydbg.de/)
 
+
+## iOS
+
+- [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)  反汇编工具 (Windows,Linux, Mac OS X) & [Hopper](https://www.hopperapp.com/) (Mac OS X)
+
+- [Reveal](https://revealapp.com/) & [PonyDebugger](https://github.com/square/PonyDebugger)   UI分析利器
+
+- [iFunbox](http://www.i-funbox.com/zh-cn_index.html) & [iExplorer](https://iexplorer.en.softonic.com/) & [iTools](http://www.itools.cn/) 文件查看工具
+
+- [Charles](https://www.charlesproxy.com/) 网络分析工具
+
+- [Theos](http://iphonedevwiki.net/index.php/Theos/Setup) 越狱程序开发框架
+
+- [iOSOpenDev](http://www.iosopendev.com/)
+
+- [Cycript](http://www.cycript.org/) 调试器
+
+- [LLDB](https://lldb.llvm.org/)
+
+- [snoop-it](https://code.google.com/archive/p/snoop-it/) 查看类信息，调试调用类的方法
+
+- [introspy](https://github.com/iSECPartners/Introspy-iOS)
+
+- [class-dump](http://stevenygard.com/projects/class-dump/) 
+
 ## Others
 
 - [Frida](https://www.frida.re/) 动态二进制插桩(Dynamic Binary Instrumentation)框架, [使用Frida来hack安卓APP（一）](http://bbs.pediy.com/thread-216645.htm)
