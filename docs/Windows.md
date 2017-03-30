@@ -47,17 +47,15 @@ Windows Tools
 
 ## 办公相关
  
-- Office: [Microsoft Office](https://www.microsoft.com/zh-cn)  
-  [MathType](http://www.mathtype.cn/)
+- Office: [Microsoft Office](https://www.microsoft.com/zh-cn)  &  [MathType](http://www.mathtype.cn/)
 
-- 文件比较: [Beyond Compare](http://www.scootersoftware.com/), 类似还有Araxis.Merge
+- 文件比较: [Beyond Compare](http://www.scootersoftware.com/) & [Araxis.Merge](https://www.araxis.com/merge/index.en)
 
 - MarkDown: [MarkdownPad 2](http://www.markdownpad.com/)
 
 - PDF: [Foxit Phantom PDF](http://www.foxitsoftware.cn/products/sdk/phantomPDF_plugin/feature.php)
 
-- 文本编辑: [Sublime Text](http://www.sublimetext.com/)   
-[Notepad++](https://notepad-plus-plus.org/) 
+- 文本编辑: [Sublime Text](http://www.sublimetext.com/)  &  [Notepad++](https://notepad-plus-plus.org/) 
 
 
 ## 开发相关
