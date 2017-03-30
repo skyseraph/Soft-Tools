@@ -42,6 +42,7 @@ Windows Tools
 
 - [picpick](http://ngwin.com/picpick)
 
+- [Launchy](https://www.launchy.net/)  快速启动工具(Windows/Linux)
 
 ## 办公相关
  
