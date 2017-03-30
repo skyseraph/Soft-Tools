@@ -38,7 +38,8 @@ Windows Tools
 
 - [TeamViewer](https://www.teamviewer.com/zhCN/) 远程操作电脑工具
 
-- [Clover](http://ejie.me/) & [TotalCommander](http://www.ghisler.com/)  & [Q-Dir](http://www.softwareok.com/?Download=Q-Dir)
+- [Clover](http://ejie.me/) & [TotalCommander](http://www.ghisler.com/)  & [Q-Dir](http://www.softwareok.com/?Download=Q-Dir) & [QTTabBar](http://qttabbar.sourceforge.net/) 
+
 - [picpick](http://ngwin.com/picpick)
 
 
