@@ -91,11 +91,9 @@ Windows Tools
  [androiddevtools](http://www.androiddevtools.cn/)
 
 
-> **游戏专题**
+> **[游戏专题](https://github.com/skyseraph/Soft-Tools/blob/master/docs/Game.md)**
 
-- [Unity](http://unity3d.com/unity/download/archive ), [补丁](http://unity3d.com/cn/unity/qa/patch-releases ), [破解](http://www.ceeger.com/forum/read.php?tid=23396&page=1)
-
-- [Cocos](http://www.cocos.com/)
+- [Jump Here](https://github.com/skyseraph/Soft-Tools/blob/master/docs/Game.md)
 
 > **数据库专题**
 
