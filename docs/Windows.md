@@ -101,6 +101,8 @@ Windows Tools
 
 - [SQLiteSpy](http://www.softpedia.com/get/Internet/Servers/Database-Utils/SQLiteSpy.shtml)
 
+- [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) 同时支持 Windos/Mac OS/Linux 
+
 > **CV & ML 专题**
 
 - [OpenCV](http://opencv.org/)
