@@ -43,6 +43,15 @@ Reverse Tools
 
 - [ApkStudio](https://github.com/vaibhavpandeyvpz/apkstudio)  跨平台逆向IDE
 
+> Hook Tools
+
+- [Xposed Framework](http://repo.xposed.info/)  
+	
+- [Cydia Substrate](http://www.cydiasubstrate.com/) 
+	
+- [ADBI](https://github.com/samsung/adbi) & [DDI](https://github.com/crmulliner/ddi)
+			
+- [Frida](https://github.com/crmulliner/ddi) & [Diff-GUI](https://github.com/antojoseph/diff-gui)
 
 ## C++ & So (Android)
 
@@ -91,10 +100,6 @@ Reverse Tools
 
 - [Charles](https://www.charlesproxy.com/) 网络分析工具
 
-- [Theos](http://iphonedevwiki.net/index.php/Theos/Setup) 越狱程序开发框架
-
-- [iOSOpenDev](http://www.iosopendev.com/)
-
 - [Cycript](http://www.cycript.org/) 调试器
 
 - [LLDB](https://lldb.llvm.org/)
@@ -104,6 +109,13 @@ Reverse Tools
 - [introspy](https://github.com/iSECPartners/Introspy-iOS)
 
 - [class-dump](http://stevenygard.com/projects/class-dump/) 
+
+> Hook Tools
+
+- [Theos](http://iphonedevwiki.net/index.php/Theos/Setup) 越狱程序开发框架
+
+- [iOSOpenDev](http://www.iosopendev.com/)
+
 
 ## Others
 
