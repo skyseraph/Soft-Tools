@@ -37,6 +37,8 @@
 |	[Git](docs/Git.md)				|	Git Commands	|
 |	[Adb](docs/Adb.md)				|	Adb Commands	|
 |	[Bat](docs/Bat.md)				|	Bat Commands	|
+|	[Regular](docs/Regular.md)				|	Regulars	|
+
 
 
 # Others
