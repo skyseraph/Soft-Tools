@@ -11,6 +11,7 @@ iOS Tools
  
 - [Cocoapods](https://cocoapods.org/) iOS程序的依赖管理， [源码地址](https://github.com/CocoaPods/CocoaPods)
 
+- [DrawScript](http://drawscri.pt/) 一款Adobe Illustrator插件, 你在Illustrator中绘制自己想要生成的图案，DrawScript会实时生成相应的iOS代码
 
 ### XCode实用插件
 
