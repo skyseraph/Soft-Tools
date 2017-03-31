@@ -60,8 +60,7 @@ Mac Soft Tools
 
 - [马克鳗](http://www.getmarkman.com/) 高效的设计稿标注、测量工具
 
-- [SQLite](https://sourceforge.net/projects/sqlitebrowser/)
-
+- [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)  Windos/Mac OS/Linux 
 
 ## 实用技巧
 
