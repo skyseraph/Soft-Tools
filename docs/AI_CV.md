@@ -20,3 +20,10 @@
 ## CV （Computer Vision） & MV（Machine Vision）
 
 - [OpenCV](http://opencv.org/)
+
+
+## 实用参考
+
+- [机器学习日报](http://ml.memect.com/)
+
+- [机器学习(Machine Learning)&深度学习(Deep Learning)资料](https://github.com/ty4z2008/Qix/blob/master/dl.md)
