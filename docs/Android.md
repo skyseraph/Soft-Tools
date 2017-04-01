@@ -44,6 +44,8 @@ Android Tools
 
 - [AndroidProguardPlugin](https://github.com/zhonghanwen/AndroidProguardPlugin) 一键生成项目混淆代码插件
 
+- [FindViewByMe](https://github.com/laobie/FindViewByMe) 一键生成findViewById
+
 - [GradleDependenciesHelperPlugin](https://github.com/siosio/GradleDependenciesHelperPlugin) maven gradle 依赖支持自动补全
 
 - [Android Methods Count](https://plugins.jetbrains.com/plugin/8076-android-methods-count) 显示依赖库中得方法数
@@ -55,6 +57,8 @@ Android Tools
 - [JsonOnlineViewer](https://plugins.jetbrains.com/plugin/7838-jsononlineviewer) 请求、调试接口
 
 - [LeakCanary](https://github.com/square/leakcanary) 开发阶段方便的检测出内存泄露
+
+- [Sexy Editor](https://plugins.jetbrains.com/plugin/1833-sexy-editor) 让你的Android Studio性感起来(编辑区的背景图片)
 
 - [Genymotion](https://plugins.jetbrains.com/plugin/7269-genymotion) 老牌模拟器，快！
 
