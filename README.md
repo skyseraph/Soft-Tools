@@ -27,6 +27,7 @@
 |	[iOS](docs/iOS.md)				|	iOS Tools		|
 |	[Game](docs/Game.md)			|	Game Dev Tools	|
 |	[NFC](docs/NFC.md)				|	NFC  Tools		|
+|	[AI专场](docs/AI_CV.md)				|	AI Tools		|
 |	[测试专场](docs/Test.md)			|	Test Tools		|
 |	[安全逆向](docs/Reverse.md)		|	Reverse Tools	|
 
