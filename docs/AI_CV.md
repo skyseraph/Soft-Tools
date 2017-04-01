@@ -1,9 +1,10 @@
 # AI & CV
 
-## AI
+## AI（Artificial Intelligence）
 
+## ML（Machine Learning） & DL（Deep Learning） &  PR（Pattern Recognition）
 
-## DL & ML & PR
+> ML
 
 - [Scikit-learn](http://scikit-learn.org/stable/)  Python机器学习包
 
@@ -16,6 +17,6 @@
 - [TensorFlow](https://www.tensorflow.org/) （Python） Google 
 
 
-## CV
+## CV （Computer Vision） & MV（Machine Vision）
 
 - [OpenCV](http://opencv.org/)
