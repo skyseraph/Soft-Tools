@@ -94,6 +94,10 @@ Regular All~
 
 
 
+## 实用参考
 
+- [regexr](http://www.regexr.com/) 在线Check
+
+- [最全的常用正则表达式大全](http://www.cnblogs.com/zxin/archive/2013/01/26/2877765.html)
 
 
