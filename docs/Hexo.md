@@ -12,5 +12,6 @@
 
 - [hexo-theme-icarus](https://github.com/yscoder/hexo-theme-indigo)
 
+- [hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo) Material Design风格
 
 ## Hexo 实用
