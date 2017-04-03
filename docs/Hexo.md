@@ -20,6 +20,7 @@
 
 - [Maupassant](https://github.com/icylogic/maupassant-hexo) [大道至简](https://www.haomwei.com/technology/maupassant-hexo.html)
 
+- [NexT](https://github.com/iissnan/hexo-theme-next) 精于心，简于形
 
 
 
