@@ -13,7 +13,7 @@ Reverse Tools
 
 - [AXMLPrinter](https://www.nuget.org/packages/axmlprinter)  XML浏览工具
 
-- [androguard](https://github.com/androguard/androguard) 使用DAD作为反编译器
+- [androguard](https://github.com/androguard/androguard) 使用DAD作为反编译器，可以分析恶意软件的可视化软件
 
 - [Enjarify](https://github.com/google/enjarify) Google官方逆向分析工具(Dalvik字节码 -> Java),需python环境
 

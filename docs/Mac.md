@@ -18,7 +18,7 @@ Mac Soft Tools
 
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) 长按⌘显示当前程序的快捷键列表
 
-- [Alfred 3](https://www.alfredapp.com/)  快速搜索，No mouse
+- [Alfred 3](https://www.alfredapp.com/)  效率工具,快速搜索，No mouse. [从零开始学习Alfred：基础功能及设置](https://sspai.com/post/32979)
 
 - [Vimium](https://vimium.github.io/) Google Chrome 扩展， 纯键盘操作 Chrome
 
@@ -38,6 +38,9 @@ Mac Soft Tools
 
 - 文件查看工具 [iFunbox](http://www.i-funbox.com/) & [iExplorer](https://iexplorer.en.softonic.com/)
 
+- [QuickTime](https://support.apple.com/downloads/quicktime) 视频录制
+
+
 ## 开发设计
 
 - [Java](http://www.oracle.com/cn/index.html) Java版本管理工具[jEnv](https://github.com/gcuisinier/jenv)
@@ -50,13 +53,27 @@ Mac Soft Tools
 
 - [Dash](https://kapeli.com/dash) API文档浏览器（离线查询）和代码片段管理工具，程序员必备  
 
+- [Reveal](https://revealapp.com/) UI调试神器  [iOS开发中集成Reveal](http://blog.devzeng.com/blog/ios-reveal-integrating.html)
+
+- [Postman](https://www.getpostman.com/)接口调试  [Postman 使用笔记](http://lucia.vicp.io/2016/05/21/postman笔记/)
+
+- [JSONExport](https://github.com/Ahmed-Ali/JSONExport) JSON生成数据模型工具
+
 - [SourceTree](https://www.sourcetreeapp.com/) Git 图形化客户端
+
+- [Cornerstone](https://www.cornerstoneondemand.com/) Svn图形化客户端
 
 - [cloc](https://github.com/AlDanial/cloc) 统计代码行数的利器
 
-- [Charles](https://www.charlesproxy.com/) 抓包工具
+- [Charles](https://www.charlesproxy.com/) 抓包工具  [Charles 从入门到精通](http://blog.devtang.com/2015/11/14/charles-introduction/)
 
-- [Sketch](https://www.sketchapp.com/)
+- [Axure RP Pro](https://www.axure.com/download) 原型设计工具 [Axure中文网](https://www.axure.com.cn/category/axure/)
+
+- [Sketch](https://www.sketchapp.com/) 扁平化UI设计工具 [Sketch中文网](http://www.sketchcn.com/sketch-chinese-user-manual.html)
+
+- [PaintCode](https://www.paintcodeapp.com/) UI与代码转换工具 [PaintCode 教程](http://www.jianshu.com/p/5e75408812df)
+
+- [Sip](http://sipapp.io/) 取色工具
 
 - [马克鳗](http://www.getmarkman.com/) 高效的设计稿标注、测量工具
 
@@ -78,6 +95,8 @@ Mac Soft Tools
 - 设置 触发角。 在 Mac 中可以把鼠标/触控板移向屏幕的四个角落时可以触发一个操作，包括“将显示器置入睡眠状态”这个功能，配合“睡眠后需要输入密码唤醒”，可以在匆忙离开座位时滑一下鼠标就关屏，很方便。
 
 ## 实用参考
+
+- [爱情守望者](https://www.waitsun.com/)
 
 - [ocds-guide-to-setting-up-mac](https://github.com/macdao/ocds-guide-to-setting-up-mac)  强迫症的 Mac 设置指南
  
