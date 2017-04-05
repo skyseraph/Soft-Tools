@@ -51,7 +51,7 @@ Reverse Tools
 	
 - [ADBI](https://github.com/samsung/adbi) & [DDI](https://github.com/crmulliner/ddi) 动态跟踪工具
 			
-- [Frida](https://github.com/crmulliner/ddi) & [Diff-GUI](https://github.com/antojoseph/diff-gui) JavaScript JavaScript
+- [Frida](https://github.com/crmulliner/ddi) & [Diff-GUI](https://github.com/antojoseph/diff-gui) JavaScript 注入 
 
 ## C++ & So (Android)
 
