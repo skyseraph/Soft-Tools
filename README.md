@@ -55,7 +55,7 @@ One of the most the most practical tools included, welcome to stars.
 
 如果你有好的建议或意见，请移步到[issues page](https://github.com/Soft-Tools/Doc/issues) 或者给我[Email](mailto:skyseraph00@126.com).  
 
-If you have good Suggestions or comments, please click to[issues page](https://github.com/Soft-Tools/Doc/issues) or Email to me[Email](mailto:skyseraph00@126.com). 
+If you have good Suggestions or comments, please click to[issues page](https://github.com/Soft-Tools/Doc/issues) or Email to my [Email](mailto:skyseraph00@126.com). 
 
 ## [My Blog](http://www.skyseraph.com )
 
