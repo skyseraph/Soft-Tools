@@ -53,6 +53,12 @@ Reverse Tools
 			
 - [Frida](https://github.com/crmulliner/ddi) & [Diff-GUI](https://github.com/antojoseph/diff-gui) JavaScript 注入 
 
+> Android 漏洞查询
+
+- [Android Vulnerabilties]()http://androidvulnerabilities.org/)
+
+- [Android CVE Details]()http://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html)
+
 ## C++ & So (Android)
 
 - [IDAPro](https://www.hex-rays.com/products/ida/index.shtml)  最强大的静态逆向分析工具,没有之一   [IDA Pro 6.8 + All Decompilers Full Leak](http://www.52pojie.cn/forum.php?mod=viewthread&tid=442702&extra=page%3D1%26filter%3Dtypeid%26typeid%3D123)
