@@ -133,6 +133,8 @@ Reverse Tools
 
 - [iOS 安全 Wiki](https://www.gitbook.com/book/wizardforcel/ios-sec-wiki/details)
 
+- [史上最全Android 开发和安全系列工具](https://zhuanlan.zhihu.com/p/25261296)
+
 - [关于 .Net 逆向的那些工具：反编译篇 ](http://www.aneasystone.com/archives/2015/06/net-reverse-decompiling.html)  
 
 - [破解NET的四大神器](http://www.52pojie.cn/thread-174802-1-1.html )    
