@@ -55,9 +55,9 @@ Reverse Tools
 
 > Android 漏洞查询
 
-- [Android Vulnerabilties]()http://androidvulnerabilities.org/)
+- [Android Vulnerabilties](http://androidvulnerabilities.org/)
 
-- [Android CVE Details]()http://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html)
+- [Android CVE Details](http://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html)
 
 ## C++ & So (Android)
 
