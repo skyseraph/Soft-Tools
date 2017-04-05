@@ -45,13 +45,13 @@ Reverse Tools
 
 > Hook Tools
 
-- [Xposed Framework](http://repo.xposed.info/)  
+- [Xposed Framework](http://repo.xposed.info/)   运行时修改系统或应用程序方面和行为
 	
-- [Cydia Substrate](http://www.cydiasubstrate.com/) 
+- [Cydia Substrate](http://www.cydiasubstrate.com/)  注入
 	
-- [ADBI](https://github.com/samsung/adbi) & [DDI](https://github.com/crmulliner/ddi)
+- [ADBI](https://github.com/samsung/adbi) & [DDI](https://github.com/crmulliner/ddi) 动态跟踪工具
 			
-- [Frida](https://github.com/crmulliner/ddi) & [Diff-GUI](https://github.com/antojoseph/diff-gui)
+- [Frida](https://github.com/crmulliner/ddi) & [Diff-GUI](https://github.com/antojoseph/diff-gui) JavaScript JavaScript
 
 ## C++ & So (Android)
 
