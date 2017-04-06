@@ -2,6 +2,9 @@
 最最最实用的工具荟萃收录，没有之一，欢迎补充.  
 One of the most the most practical tools included, welcome to stars.
 
+工欲善其事，必先利其器！ Star? Follow? Support? 你懂！
+
+
 [![GitHub stars](https://img.shields.io/github/stars/skyseraph/Soft-Tools.svg?style=social&label=Star)](https://github.com/skyseraph/Soft-Tools)
 [![GitHub watchers](https://img.shields.io/github/watchers/skyseraph/Soft-Tools.svg?style=social&label=Watch)](https://github.com/skyseraph/Soft-Tools)
 [![GitHub followers](https://img.shields.io/github/followers/skyseraph.svg?style=social&label=Follow)](https://github.com/skyseraph/Soft-Tools) 
