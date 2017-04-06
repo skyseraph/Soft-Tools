@@ -30,10 +30,11 @@ One of the most the most practical tools included, welcome to stars.
 |	[iOS](docs/iOS.md)				|	iOS Tools		|
 |	[Game](docs/Game.md)			|	Game Dev Tools	|
 |	[NFC](docs/NFC.md)				|	NFC  Tools		|
-|	[AI](docs/AI_CV.md)				|	AI 专场		|
+|	[Design](docs/Design.md)			|	产品设计		|
+|	[AI](docs/AI_CV.md)				  |	AI 专场		|
 |	[Hexo](docs/Hexo.md)				|Hexo 专场	|
-|	[测试专场](docs/Test.md)			|	Test Tools		|
-|	[安全逆向](docs/Reverse.md)		|	Reverse Tools	|
+|	[Test](docs/Test.md)			  |	测试 Tools		|
+|	[Reverse](docs/Reverse.md)		|	安全逆向	|
 
 ## 命令类 / Commands
 
