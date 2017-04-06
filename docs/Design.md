@@ -26,13 +26,11 @@
 
 - [Sketch](https://www.sketchapp.com/) 扁平化UI设计工具（Mac） [Sketch中文网](http://www.sketchcn.com/sketch-chinese-user-manual.html)
 
-- [MarkMan](http://www.getmarkman.com/)  设计标注/测量工具
+- [MarkMan/马克鳗](http://www.getmarkman.com/)  高效的设计稿标注、测量工具
 
 - [Justinmind](http://www.justinmind.com.cn/)
 
 - [Sip](http://sipapp.io/) 取色工具（Mac）
-
-- [马克鳗](http://www.getmarkman.com/) 高效的设计稿标注、测量工具（Mac）
 
 ## **图像专题**
 
