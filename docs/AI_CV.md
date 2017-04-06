@@ -16,6 +16,8 @@
 
 - [TensorFlow](https://www.tensorflow.org/) （Python） Google 
 
+- [CNTK](https://github.com/Microsoft/CNTK)  Microsoft
+
 
 ## CV （Computer Vision） & MV（Machine Vision）
 
@@ -24,6 +26,9 @@
 
 ## 实用参考
 
+- [Comparing Frameworks: Deeplearning4j, Torch, Theano, TensorFlow, Caffe, Paddle, MxNet, Keras & CNTK](https://deeplearning4j.org/compare-dl4j-torch7-pylearn)
+
 - [机器学习日报](http://ml.memect.com/)
 
 - [机器学习(Machine Learning)&深度学习(Deep Learning)资料](https://github.com/ty4z2008/Qix/blob/master/dl.md)
+
