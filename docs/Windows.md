@@ -155,9 +155,11 @@ Windows Tools
 
 > **思维导图**
 
-- [Xmind-8](http://www.xmindchina.net/)
+- [Xmind](http://www.xmindchina.net/)
 
 - [MindManager](http://www.mindmanager.cc/)
+
+- [iMindMap](https://imindmap.com/software/) 3D
 
 > **产品设计**
 
