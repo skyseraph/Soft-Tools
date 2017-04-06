@@ -41,7 +41,7 @@ Mac Soft Tools
 - [QuickTime](https://support.apple.com/downloads/quicktime) 视频录制
 
 
-## 开发设计
+## 开发开发
 
 - [Java](http://www.oracle.com/cn/index.html) Java版本管理工具[jEnv](https://github.com/gcuisinier/jenv)
 
@@ -67,15 +67,7 @@ Mac Soft Tools
 
 - [Charles](https://www.charlesproxy.com/) 抓包工具  [Charles 从入门到精通](http://blog.devtang.com/2015/11/14/charles-introduction/)
 
-- [Axure RP Pro](https://www.axure.com/download) 原型设计工具 [Axure中文网](https://www.axure.com.cn/category/axure/)
-
-- [Sketch](https://www.sketchapp.com/) 扁平化UI设计工具 [Sketch中文网](http://www.sketchcn.com/sketch-chinese-user-manual.html)
-
 - [PaintCode](https://www.paintcodeapp.com/) UI与代码转换工具 [PaintCode 教程](http://www.jianshu.com/p/5e75408812df)
-
-- [Sip](http://sipapp.io/) 取色工具
-
-- [马克鳗](http://www.getmarkman.com/) 高效的设计稿标注、测量工具
 
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)  Windos/Mac OS/Linux 
 
