@@ -85,6 +85,6 @@ adb forward tcp:5555 tcp:9001 // 把PC端5555端口的数据, 转发到Android�
 
 - [ADB 用法大全](https://github.com/mzlogin/awesome-adb)
 
-
+- [Google 官方](https://developer.android.com/studio/command-line/adb.html)
 
 
