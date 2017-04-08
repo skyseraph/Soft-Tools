@@ -58,6 +58,10 @@ git push origin master //重新创建远程master分支
 
 ## 实用参考  
 
+- [《Git权威指南》]()
+
+- [《Git Community Book 中文版》](http://gitbook.liuhui998.com/index.html)
+
 - [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
 
 
