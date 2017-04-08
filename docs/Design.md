@@ -20,19 +20,31 @@
 
 - [iMindMap](https://imindmap.com/software/) 3D
 
+- [MindNode](https://mindnode.com/)	（Mac）
+
 ## **产品设计**
 
 - [Axure](https://www.axure.com.cn/)  原型设计工具 [Axure中文网](https://www.axure.com.cn/category/axure/)
 
 - [Sketch](https://www.sketchapp.com/) 扁平化UI设计工具（Mac） [Sketch中文网](http://www.sketchcn.com/sketch-chinese-user-manual.html)
 
-- [MarkMan/马克鳗](http://www.getmarkman.com/)  高效的设计稿标注、测量工具
-
 - [Justinmind](http://www.justinmind.com.cn/)
+
+- [OmniGraffle](https://www.omnigroup.com/omnigraffle) （Mac） 强大绘图功能
+
+- [Balsamiq Mockups](https://balsamiq.com/products/mockups/) 还原手绘，通过线框图方式来画原型图
+
+- [Mockplus](https://www.mockplus.cn/)
+
+- [墨刀](https://modao.cc/)
+	
+- [MarkMan/马克鳗](http://www.getmarkman.com/)  高效的设计稿标注、测量工具
 
 - [Sip](http://sipapp.io/) 取色工具（Mac）
 
-## **图像专题**
+- [Pixate](http://www.pixate.com/)  交互设计
+
+## **图像绘图**
 
 - [Adobe_Photoshop](http://www.adobe.com/cn/)
 
@@ -40,3 +52,10 @@
 
 - [licecap](http://www.cockos.com/licecap/)  Gif录屏软件
 
+- [Processon](https://www.processon.com/)  在线绘图
+
+## 其它
+
+- [logoist(Mac)](http://www.syniumsoftware.com/logoist) Logo设计
+
+- [石墨文档](https://shimo.im/)  在线协作文档
