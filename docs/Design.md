@@ -32,7 +32,7 @@
 
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) （Mac） 强大绘图功能
 
-- [Balsamiq Mockups](https://balsamiq.com/products/mockups/) 还原手绘，通过线框图方式来画原型图， [libraries下载](https://support.balsamiq.com/resources/mockupstogo/)  [uilibrary](https://support.mybalsamiq.com/projects/uilibrary/grid)
+- [Balsamiq Mockups](https://balsamiq.com/products/mockups/) 还原手绘，通过线框图方式来画原型图， [libraries下载](https://support.balsamiq.com/resources/mockupstogo/) [projects](https://support.mybalsamiq.com/projects/)  [uilibrary](https://support.mybalsamiq.com/projects/uilibrary/grid)
 
 - [Mockplus](https://www.mockplus.cn/)
 
