@@ -27,23 +27,24 @@ One of the most the most practical tools included, welcome to stars.
 |				目录					|		简介			|
 |----------------------------------	|--------------		|
 |	[Android](docs/Android.md)		|	Android Tools	|
-|	[iOS](docs/iOS.md)				|	iOS Tools		|
-|	[Game](docs/Game.md)			|	Game Dev Tools	|
-|	[NFC](docs/NFC.md)				|	NFC  Tools		|
+|	[iOS](docs/iOS.md)				    |	iOS Tools		|
+|	[Game](docs/Game.md)			    |	Game Dev Tools	|
+|	[NFC](docs/NFC.md)				    |	NFC  Tools		|
 |	[Design](docs/Design.md)			|	产品设计		|
-|	[AI](docs/AI_CV.md)				  |	AI 专场		|
-|	[Hexo](docs/Hexo.md)				|Hexo 专场	|
-|	[Test](docs/Test.md)			  |	测试 Tools		|
-|	[Reverse](docs/Reverse.md)		|	安全逆向	|
+|	[AI](docs/AI_CV.md)				    |	AI 专场		  |
+|	[Hexo](docs/Hexo.md)				  | Hexo 专场	  |
+|	[Test](docs/Test.md)			    |	测试 Tools	|
+|	[Reverse](docs/Reverse.md)		|	安全逆向	  |
 
 ## 命令类 / Commands
 
 |				目录					|		简介			|
 |----------------------------------	|--------------		|
-|	[Git](docs/Git.md)				|	Git Commands	|
-|	[Adb](docs/Adb.md)				|	Adb Commands	|
-|	[Bat](docs/Bat.md)				|	Bat Commands	|
-|	[Regular](docs/Regular.md)		|	Regulars		|
+|	[Git](docs/Git.md)				|	Git Commands	    |
+|	[Adb](docs/Adb.md)				|	Adb Commands	    |
+|	[Bat](docs/Bat.md)				|	Bat Commands	    |
+|	[Bat](docs/Bat.md)				|	Bat Commands	    |
+|	[Python](docs/Python.md)	|	Python	Commands	|
 
 
 
