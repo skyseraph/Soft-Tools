@@ -7,6 +7,8 @@ Adb commands
 
 - [ADBWIFI](https://github.com/layerlre/ADBWIFI) Android Studio plugin for debug android app over Wi-Fi
 
+- [adb-enhanced](https://github.com/ashishb/adb-enhanced)
+
 ## 常用adb命令 
 
 - adb version
