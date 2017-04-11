@@ -22,7 +22,7 @@
 
 - [NexT](https://github.com/iissnan/hexo-theme-next) 精于心，简于形
 
-
+- [JSimple ](https://github.com/tangkunyin/hexo-theme-jsimple) 简述风格
 
 
 ## Hexo 实用
