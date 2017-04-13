@@ -81,7 +81,8 @@ Windows Tools
 
 - [Intellij IDEA](http://www.jetbrains.com/idea/)
 
-- [Visual Studio](https://www.visualstudio.com/)  & [Visual_Assist_X](http://www.wholetomato.com/) , [VS2015 破解版](http://www.cnblogs.com/dunitian/p/4667038.html)
+- [Visual Studio](https://www.visualstudio.com/)  & [Visual_Assist_X](http://www.wholetomato.com/)   
+[MSDN我告诉你](http://msdn.itellyou.cn/) MicroSoft系列软件下载，感谢雪龙狼前辈~~
 
 - [Pycharm-community](http://www.jetbrains.com/pycharm/)
 
