@@ -120,9 +120,11 @@ Windows Tools
 
 > **终端工具**
 
-- [SecureCRT](https://www.vandyke.com/download/securecrt/download.html)
+- [Putty](http://www.putty.org/) & [Putty with psd](https://unmi.cc/wp-content/uploads/2010/06/putty_v6.0.rar)  & [PuttyMan](http://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/PuttyMan.shtml)
 
-- [Putty](http://www.putty.org/) or [PuttyMan](http://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/PuttyMan.shtml)
+- [Xming](https://nchc.dl.sourceforge.net/project/xming/Xming/6.9.0.31/Xming-6-9-0-31-setup.exe) & [Xming-Font](https://nchc.dl.sourceforge.net/project/xming/Xming-fonts/7.7.0.10/Xming-fonts-7-7-0-10-setup.exe) 远程使用 Linux GUI
+
+- [SecureCRT](https://www.vandyke.com/download/securecrt/download.html)
 
 - [Xshell](http://www.netsarang.com/products/xsh_overview.html)
 
