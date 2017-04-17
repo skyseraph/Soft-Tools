@@ -34,6 +34,7 @@ Chrome Tools
 
 - [有道词典Chrome划词插件](http://cidian.youdao.com/chromeplus/)
 
+- [Chrome Remote Desktop](https://support.google.com/chrome/answer/1649523?hl=en) 
 
 > IT民工
 
