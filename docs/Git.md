@@ -33,7 +33,22 @@ git config --global color.ui true
 - git push origin :A    
 
 
+> 修改已commit版本
+
+- git add xx
+- git commit --amend --no-edit   # "--no-edit": 不编辑, 直接合并到上一个 commit
+- git log --oneline    # "--oneline": 每个 commit 内容显示在一行
+
 > **回退**    
+
+
+- 回到过去
+
+git reset x
+
+git reset --hard HEAD  # 回到 上一次的 commit
+
+git reset --hard id    # 回到 id指定的 commit
 
 - 远程服务器支持SSH前提下    
 
