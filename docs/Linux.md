@@ -5,6 +5,8 @@ Linux Tools
 
 ## 实用软件
 
+- [Samba](https://wiki.archlinux.org/index.php/Samba_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)) Linux 文件共享 Windows用户
+
 - [VirtualBox](https://www.virtualbox.org/)
 
 - [Kazam](https://www.kazam.mobi/) 屏幕录制工具 & [Silentcast](https://github.com/colinkeenan/silentcast) GIF录制工具
