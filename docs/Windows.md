@@ -3,7 +3,9 @@ Windows Tools
 
 ## 装机必备
 
-> 代理/翻墙
+> 科学上网
+
+- [shadowsocks](https://github.com/shadowsocks)
 
 - [XX-Net](https://github.com/XX-net/XX-Net) 
 
