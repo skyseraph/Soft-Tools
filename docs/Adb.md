@@ -82,6 +82,11 @@ adb forward tcp:5555 tcp:9001 // 把PC端5555端口的数据, 转发到Android�
 
 - adb shell + logcat | grep START   
 
+> 端口占用
+
+- netstat -aon|findstr "5037" 
+- tasklist|findstr "进程号"
+- taskkill /f /t /im 进程名
 
 ## 实用参考  
 
