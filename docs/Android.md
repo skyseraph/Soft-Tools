@@ -26,7 +26,8 @@ Android Tools
 |	<kbd>Ctrl+B</kbd>              	|	<kbd>Cmd+B</kbd>              	|   定位到Definition 			|
 |	<kbd>Ctrl+Shift+A</kbd>        	|	<kbd>Cmd+Shift+A</kbd>        	|   快速查找Actions				|
 |	<kbd>Ctrl+Shift+N</kbd>        	|	<kbd>Cmd+Shift+N</kbd>        	|   快速查找文件					|
-|	<kbd>Ctrl+N</kbd>        		|	<kbd>Cmd+N</kbd>        		|   快速查找类					|
+|	<kbd>Ctrl+Shift+F</kbd>        	|	<kbd>Cmd+Shift+F</kbd>  		    |   Find In Path			|
+|	<kbd>Ctrl+N</kbd>        		|	<kbd>Cmd+N</kbd>        		        |   快速查找类					|
 |	<kbd>Shift+Shift</kbd>        	|	<kbd>Shift+Shift</kbd>        	|   Search Everywhere			|
 |	<kbd>Alt+Enter</kbd>        	|	<kbd>Opt+Enter</kbd>        	|   Quick Fix 					|
 |	<kbd>Alt+Ctrl+L</kbd>        	|	<kbd>Cmd+Opt+L</kbd>        	|   格式化代码Format				|
