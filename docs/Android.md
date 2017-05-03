@@ -26,7 +26,7 @@ Android Tools
 |	<kbd>Ctrl+B</kbd>              	|	<kbd>Cmd+B</kbd>              	|   定位到Definition 			|
 |	<kbd>Ctrl+Shift+A</kbd>        	|	<kbd>Cmd+Shift+A</kbd>        	|   快速查找Actions				|
 |	<kbd>Ctrl+Shift+N</kbd>        	|	<kbd>Cmd+Shift+N</kbd>        	|   快速查找文件					|
-|	<kbd>Ctrl+Shift+F</kbd>        	|	<kbd>Cmd+Shift+F</kbd>  		    |   Find In Path			|
+|	<kbd>Ctrl+Shift+F</kbd>        	|	<kbd>Cmd+Shift+F</kbd>  		    |   Find In Path			|
 |	<kbd>Ctrl+N</kbd>        		|	<kbd>Cmd+N</kbd>        		        |   快速查找类					|
 |	<kbd>Shift+Shift</kbd>        	|	<kbd>Shift+Shift</kbd>        	|   Search Everywhere			|
 |	<kbd>Alt+Enter</kbd>        	|	<kbd>Opt+Enter</kbd>        	|   Quick Fix 					|
@@ -81,6 +81,7 @@ Android Tools
 |	<kbd>Ctrl+D</kbd>              	|   删除当前行					|
 |	<kbd>Ctrl+M</kbd>              	|   窗口最大化和还原				|
 |	<kbd>Ctrl+L</kbd>              	|   定位到当前编辑器的某一行		|
+|	<kbd>Ctrl+H</kbd>              	|   Find In Path		|
 |	<kbd>Ctrl+Shift+T</kbd>        	|   快速查找类					|
 |	<kbd>Ctrl+Shift+R</kbd>        	|   快速查找文件					|
 |	<kbd>Ctrl+Shift+G</kbd>        	|   查找类、方法和属性的引用		|
