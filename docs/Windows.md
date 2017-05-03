@@ -106,6 +106,14 @@ Windows Tools
 
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) 同时支持 Windos/Mac OS/Linux 
 
+- [phpMyAdmin](https://www.phpmyadmin.net/) 基于web的MySQL数据库管理工具
+
+- [SQLiteStudio](https://sqlitestudio.pl/index.rvt) 跨平台的 SQLite 数据库的管理工具
+
+- [HeidiSQL](https://www.heidisql.com/)
+
+- [DBeaver](http://dbeaver.jkiss.org/download/)  通用的数据库管理工具
+
 > **CV & ML 专题**
 
 - [OpenCV](http://opencv.org/)
