@@ -56,6 +56,18 @@
 
 - [Processon](https://www.processon.com/)  在线绘图
 
+- [GIMP](https://www.gimp.org/)
+
+- [Inkscape](https://inkscape.org/zh/) 富有特色的矢量绘图设计软件
+
+- [MyPaint](http://mypaint.org/) 用于数位屏的快速绘图和插画工具
+
+- [Krita](https://krita.org/zh/) 强大功能的数字绘图应用
+
+- [Blender](https://www.blender.org/) 开源3D制作套件
+
+- [Scribus](https://www.scribus.net/) 页面布局工具,可用于创造精致美丽的物品，包括信封、书籍、杂志以及其它印刷品。
+
 ## 其它
 
 - [logoist(Mac)](http://www.syniumsoftware.com/logoist) Logo设计
