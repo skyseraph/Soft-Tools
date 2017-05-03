@@ -61,3 +61,7 @@
 - [logoist(Mac)](http://www.syniumsoftware.com/logoist) Logo设计
 
 - [石墨文档](https://shimo.im/)  在线协作文档
+
+# 实用参考
+
+- [awesome-design-cn](https://github.com/jobbole/awesome-design-cn)
