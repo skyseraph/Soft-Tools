@@ -14,11 +14,11 @@
 
 > 基础 
 
-conda config --show  	# 查看配置信息    
-conda --version			# 查看版本号    
-conda update conda		# 升级当前版本的conda  
-conda update anaconda	# 更新anaconda  
-conda update python		# 更新python至当前系列最新版  
+- conda config --show  	# 查看配置信息    
+- conda --version			# 查看版本号    
+- conda update conda		# 升级当前版本的conda  
+- conda update anaconda	# 更新anaconda  
+- conda update python		# 更新python至当前系列最新版  
 
 > 环境管理(python)
 
@@ -39,23 +39,24 @@ conda remove --name python34 --all
 
 > 包管理
 
-conda list 				# 查看当前环境下已安装包列表  
-conda list -n python34	# 查看某个指定环境的已安装包  
-conda search numpy		# 查找package信息  
-conda install numpy		# 当前环境安装package  
-conda install -n python34 numpy	# 指定环境安装package  
-conda update -n python34 numpy	# 更新package  
-conda remove -n python34 numpy	# 删除package  
-conda install anaconda	# 在当前环境下安装anaconda包集合  
-
+- conda list 				# 查看当前环境下已安装包列表  
+- conda list -n python34	# 查看某个指定环境的已安装包  
+- conda search numpy		# 查找package信息  
+- conda install numpy		# 当前环境安装package  
+- conda install -n python34 numpy	# 指定环境安装package  
+- conda update -n python34 numpy	# 更新package  
+- conda remove -n python34 numpy	# 删除package  
+- conda install anaconda	# 在当前环境下安装anaconda包集合  
+- 
 > 设置国内镜像
 
-conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/ # 添加Anaconda的TUNA镜像
-conda config --set show_channel_urls yes # 设置搜索时显示通道地址
+- conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/ # 添加Anaconda的TUNA镜像
+- conda config --set show_channel_urls yes # 设置搜索时显示通道地址
 
 > 代理设置
 
-proxy_servers:
+- 路径： C:\Users\name\.condarc 文件  # for windows
+- proxy_servers:  
     http: http://user:pass@corp.com:8080  
     https: https://user:pass@corp.com:8080
 
