@@ -56,9 +56,8 @@ conda config --set show_channel_urls yes # 设置搜索时显示通道地址
 > 代理设置
 
 proxy_servers:
-    http: http://user:pass@corp.com:8080
+    http: http://user:pass@corp.com:8080  
     https: https://user:pass@corp.com:8080
-
 
 > 实用参考
 
