@@ -29,8 +29,8 @@ conda create --name python34 python=3.4
 3. 查看现在所在的版本分支  
 conda info --e  
 4. 切换到你所需要的分支  
-source activate bunnies # for Linux & Mac  
-activate bunnies # for Windows  
+source activate python34  # for Linux & Mac  
+activate python34  # for Windows  
 5. 返回默认的python环境  
 deactivate python34 # for Windows  
 source deactivate python34 # for Linux & Mac  
