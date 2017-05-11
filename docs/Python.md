@@ -50,11 +50,9 @@ conda install anaconda	# 在当前环境下安装anaconda包集合
 
 > 设置国内镜像
 
-# 添加Anaconda的TUNA镜像
-conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/ # 添加Anaconda的TUNA镜像
 
-# 设置搜索时显示通道地址
-conda config --set show_channel_urls yes
+conda config --set show_channel_urls yes # 设置搜索时显示通道地址
 
 > 实用参考
 
