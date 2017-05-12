@@ -55,7 +55,10 @@ conda remove --name python34 --all
 
 > 代理设置
 
-- 路径： C:\Users\name\.condarc 文件  # for windows
+- 路径：   
+C:\Users\name\.condarc 文件  # for windows   
+~/.condarc   # for Linux & Mac  
+
 - proxy_servers:  
     http: http://user:pass@corp.com:8080  
     https: https://user:pass@corp.com:8080
