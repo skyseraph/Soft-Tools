@@ -43,6 +43,7 @@ One of the most the most practical tools included, welcome to stars.
 |	[Git](docs/Git.md)				|	Git Commands	    |
 |	[Adb](docs/Adb.md)				|	Adb Commands	    |
 |	[Bat](docs/Bat.md)				|	Bat Commands	    |
+|	[Vim](docs/Vim.md)	|	Vim	Commands	|
 |	[Regular](docs/Regular.md)|	Regular           |
 |	[Python](docs/Python.md)	|	Python	Commands	|
 
