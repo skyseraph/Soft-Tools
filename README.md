@@ -65,8 +65,9 @@ If you have good Suggestions or comments, please click to[issues page](https://g
 
 ## [My Blog](http://www.skyseraph.com )
 
-[skyseraph.com](http://www.skyseraph.com) 
+If you have any questions or ideas ,please feel free to contact me~
 
+[skyseraph.com](http://www.skyseraph.com) 
 
 [Support me](http://www.skyseraph.com)
 -------
