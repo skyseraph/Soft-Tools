@@ -26,6 +26,18 @@ git config --global user.name "Your Name"
 git config --global core.editor "nano"     
 git config --global color.ui true    
 
+> 代理设置
+
+Git设置代理
+git config --global http.proxy http://name:psd@xx.xx.com:8080  
+git config --global https.proxy https://name:psd@xx.xx.com:8080  
+
+Git取消代理
+git config --global --unset http.proxy  
+git config --global --unset https.proxy  
+
+git config --global http.sslverify false
+
 > **删除远程分支A**    
 
 - git push origin --delete A    
