@@ -20,11 +20,16 @@ Git commands
 - git config -l   
 查看Git当前配置信息
 
+- git config --global -l  
+查看Git当前全局配置信息
+
 - 配置  
-git config --global user.email "you@email.com"    
-git config --global user.name "Your Name"    
-git config --global core.editor "nano"     
-git config --global color.ui true    
+$ git config --global user.email "you@email.com"    
+$ git config --global user.name "Your Name"    
+$ git config --global core.editor "nano"     
+$ git config --global color.ui true   
+$ git config --global core.autocrlf false   配置Git工具不自动转换换行符(Windows下默认会把sh自动转换为crlf)  
+$ git config --global core.fileMode false  配置Git工具不自动转换文件权限  
 
 > 代理设置
 
