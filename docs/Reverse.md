@@ -43,6 +43,8 @@ Reverse Tools
 
 - [ApkStudio](https://github.com/vaibhavpandeyvpz/apkstudio)  跨平台逆向IDE
 
+- [APK DeGuard](http://apk-deguard.com/) 在线Android反编译工具
+
 > Hook Tools
 
 - [Xposed Framework](http://repo.xposed.info/)   运行时修改系统或应用程序方面和行为
