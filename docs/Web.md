@@ -4,6 +4,8 @@ Web Tools
 
 ## 在线工具
 
+- [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/) 在线代码增加高亮工具
+
 - [Regexr](http://www.regexr.com/) & [regexper](https://regexper.com/)
 
 - [BASE64](http://www1.tc711.com/tool/BASE64.htm)
