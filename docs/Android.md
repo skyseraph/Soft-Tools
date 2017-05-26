@@ -32,6 +32,18 @@ Android Tools
 |	<kbd>Alt+Enter</kbd>        	|	<kbd>Opt+Enter</kbd>        	|   Quick Fix 					|
 |	<kbd>Alt+Ctrl+L</kbd>        	|	<kbd>Cmd+Opt+L</kbd>        	|   格式化代码Format				|
 
+### 实用工具
+
+- [Genymotion](https://plugins.jetbrains.com/plugin/7269-genymotion) 老牌模拟器，快！
+
+- [NimbleDroid](https://nimbledroid.com/) 测试App内存泄漏和严重问题工具
+
+- [LeakCanary](https://github.com/square/leakcanary) 内存泄漏检测
+
+- [BlockCanary](https://github.com/markzhai/AndroidPerformanceMonitor) 性能监测库
+
+- [Takt](https://github.com/wasabeef/Takt) 检查App FPS的小巧工具
+
 
 ### 实用插件
 
@@ -47,6 +59,8 @@ Android Tools
 
 - [FindViewByMe](https://github.com/laobie/FindViewByMe) 一键生成findViewById
 
+- [Material Design Icon Generator](https://github.com/konifar/android-material-design-icon-generator-plugin) 自动生成 Material Design图标的Android Studio插件
+
 - [GradleDependenciesHelperPlugin](https://github.com/siosio/GradleDependenciesHelperPlugin) maven gradle 依赖支持自动补全
 
 - [Android Methods Count](https://plugins.jetbrains.com/plugin/8076-android-methods-count) 显示依赖库中得方法数
@@ -55,13 +69,15 @@ Android Tools
 
 - [ADB WIFI](https://plugins.jetbrains.com/plugin/7856-adb-wifi) wifi无线调试App，无需root权限
 
+- [ADB IDEA](https://github.com/pbreault/adb-idea) IDE中实现app重启，杀死，清理数据，卸载插件
+
+- [Key Promoter](https://plugins.jetbrains.com/plugin/4455-key-promoter) 高效快捷键插件
+
+- [Codota](https://www.codota.com/ide-plugin) IDE中寻找代码示例插件
+
 - [JsonOnlineViewer](https://plugins.jetbrains.com/plugin/7838-jsononlineviewer) 请求、调试接口
 
-- [LeakCanary](https://github.com/square/leakcanary) 开发阶段方便的检测出内存泄露
-
 - [Sexy Editor](https://plugins.jetbrains.com/plugin/1833-sexy-editor) 让你的Android Studio性感起来(编辑区的背景图片)
-
-- [Genymotion](https://plugins.jetbrains.com/plugin/7269-genymotion) 老牌模拟器，快！
 
 > Refs  
 
@@ -100,4 +116,4 @@ Android Tools
 
 ## 实用参考  
 
-
+- [Code like a pro: 31 tools for Android app developers](https://techbeacon.com/code-pro-31-tools-android-app-developers)
