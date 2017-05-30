@@ -16,13 +16,6 @@
 - [taobao](http://code.taobao.org/)
 - [码云](https://git.oschina.net/)
 
-> 移动开发
-
-- [firebase](https://firebase.google.com/)
-- [听云](http://www.tingyun.com/) 
-- [TestIn](http://www.testin.cn/) 云测
-- [蒲公英](https://www.pgyer.com/) 内测/众测
-
 > 其它
 
 - [ProcessOn](https://www.processon.com/)
