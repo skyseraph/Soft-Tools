@@ -9,6 +9,7 @@ App Links
 ## 设计
 
 - [阿里巴巴矢量图标库](http://iconfont.cn/)
+- [material UP](https://material.uplabs.com/)
 - [ionicons](https://github.com/driftyco/ionicons/)
 - [Google Material-Design-Icons](https://github.com/google/material-design-icons)
 
