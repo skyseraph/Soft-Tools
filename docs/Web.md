@@ -20,6 +20,8 @@ Web Tools
 
 - [在线工具](http://tool.lu/)
 
+- [在线测试工具箱](http://www.androidstar.cn/在线测试工具箱/)  px dp sp mm pt in在线转换计算工具, 二维码生成等实用工具
+
 ## 实用推荐  
 
 - [Web前端导航](http://www.alloyteam.com/nav/)
