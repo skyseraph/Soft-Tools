@@ -60,7 +60,21 @@ adb forward tcp:5555 tcp:9001 // 把PC端5555端口的数据, 转发到Android�
          activity 显示所有的activities的信息  
          window 显示键盘，窗口和它们的关系  
          wifi 显示wifi信息  
-         and so on  
+         ......  
+ 
+例如  
+- adb shell dumpsys battery  电池信息
+- adb shell dumpsys cpuinfo  CPU信息
+- adb shell dumpsys meminfo  内存信息(获取具体应用的内存信息，后面加上包名即可)
+- adb shell dumpsys activity  Activity信息
+- adb shell dumpsys activity top  当前界面的UI信息
+- adb shell dumpsys activity top | findstr ACTIVITY  当前界面的Activity
+- adb shell dumpsys package  package信息
+- adb shell dumpsys package PACKAGE_NAM  具体包的信息
+- adb shell dumpsys notification  通知信息
+- adb shell dumpsys wifi Wi-Fi信息
+- adb shell dumpsys power  电源管理信息
+- adb shell dumpsys telephony.registry  电话信息
 
 > **获取进程号**    
 
