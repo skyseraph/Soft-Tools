@@ -48,11 +48,15 @@
 
 ## **图像绘图**
 
+> 看图
+
+- [Irfanview](http://www.irfanview.com/)  看图工具
+
+- [XnView](http://www.xnview.com/en/xnviewmp/) 
+
+> 绘图/编辑
+
 - [Adobe_Photoshop](http://www.adobe.com/cn/)
-
-- [Camtasia Studio](https://www.techsmith.com/camtasia.html) 屏幕录像工具
-
-- [licecap](http://www.cockos.com/licecap/)  Gif录屏软件
 
 - [Processon](https://www.processon.com/)  在线绘图
 
@@ -67,6 +71,18 @@
 - [Blender](https://www.blender.org/) 开源3D制作套件
 
 - [Scribus](https://www.scribus.net/) 页面布局工具,可用于创造精致美丽的物品，包括信封、书籍、杂志以及其它印刷品。
+
+- [Diagram Designer](http://logicnet.dk/DiagramDesigner/)  画图好工具
+
+> 录屏/视频录制
+
+- [Camtasia Studio](https://www.techsmith.com/camtasia.html) 专业的屏幕录制完全解决套件(录制教学视频的绝佳选择，后期处理强大)
+
+- [Bandicam](http://www.bandicam.com/cn/)  游戏视频录制最佳软件
+
+- [licecap](http://www.cockos.com/licecap/)  Gif录屏软件(小众软件,灵活好用)
+
+- [GifCam](http://blog.bahraniapps.com/gifcam/) Gif录屏软件(功能强大，录制完后还可以对Gif进行编辑，保存的文件占用空间大)
 
 ## 其它
 
