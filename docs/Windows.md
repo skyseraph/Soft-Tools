@@ -34,10 +34,11 @@ Windows Tools
 
 - [Dism++](https://www.chuyu.me/zh-Hans/index.html) 
 
-
 > 实用工具
 
-- [Everything](http://www.voidtools.com/) 全盘文件搜索工具
+- [Everything](http://www.voidtools.com/) 全盘文件搜索工具  
+
+- [FileLocator Pro](https://www.mythicsoft.com/filelocatorpro/) 文档全文内容搜索神器
 
 - [TeamViewer](https://www.teamviewer.com/zhCN/) 远程操作电脑工具
 
@@ -45,7 +46,7 @@ Windows Tools
 
 - [picpick](http://ngwin.com/picpick)
 
-- [Launchy](https://www.launchy.net/)  快速启动工具(Windows/Linux)
+- [Launchy](https://www.launchy.net/)  快速启动工具(Windows/Linux)  (Alt+Space 启动快速搜索)
 
 ## 办公相关
  
