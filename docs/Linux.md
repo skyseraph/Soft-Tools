@@ -24,6 +24,8 @@ Linux Tools
 
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim),  vim spacemacs 
 
+- [Zeal](https://zealdocs.org/) 离线文档查看工具，类似[Mac](https://github.com/skyseraph/Soft-Tools/blob/master/docs/Mac.md)下的 Dash
+
 ## 实用命令
 
 todo
