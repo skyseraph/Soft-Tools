@@ -41,7 +41,7 @@ Mac Soft Tools
 - [QuickTime](https://support.apple.com/downloads/quicktime) 视频录制
 
 
-## 开发开发
+## 开发专题
 
 - [Java](http://www.oracle.com/cn/index.html) Java版本管理工具[jEnv](https://github.com/gcuisinier/jenv)
 
