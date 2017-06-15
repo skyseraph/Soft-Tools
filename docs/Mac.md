@@ -41,7 +41,7 @@ Mac Soft Tools
 - [QuickTime](https://support.apple.com/downloads/quicktime) 视频录制
 
 
-## 开发专题
+## 开发相关
 
 - [Java](http://www.oracle.com/cn/index.html) Java版本管理工具[jEnv](https://github.com/gcuisinier/jenv)
 
@@ -51,7 +51,7 @@ Mac Soft Tools
 
 - [XCode](https://developer.apple.com/xcode/) App Store 安装
 
-- [Dash](https://kapeli.com/dash) API文档浏览器（离线查询）和代码片段管理工具，程序员必备  
+- [Dash](https://kapeli.com/dash) API文档浏览器（离线查询）和代码片段管理工具，程序员必备
 
 - [Reveal](https://revealapp.com/) UI调试神器  [iOS开发中集成Reveal](http://blog.devzeng.com/blog/ios-reveal-integrating.html)
 
