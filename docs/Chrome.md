@@ -54,7 +54,7 @@ Chrome Tools
 
 - [Firebug](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)  
 
-- [devdocs](http://devdocs.io/) [开源](https://github.com/Thibaut/devdocs),离线文档查看,类似[Mac](https://github.com/skyseraph/Soft-Tools/blob/master/docs/Mac.md)下的Dash和[Linux](https://github.com/skyseraph/Soft-Tools/blob/master/docs/Linux.md)下的Zeal
+- [devdocs](http://devdocs.io/) [开源](https://github.com/Thibaut/devdocs),离线文档查看,类似[Mac](https://github.com/skyseraph/Soft-Tools/blob/master/docs/Mac.md)下的Dash和[Linux](https://github.com/skyseraph/Soft-Tools/blob/master/docs/Linux.md)下的Zeal, 客户端[devdocs-app](https://github.com/egoist/devdocs-app)
 
 
 ## 实用参考  
