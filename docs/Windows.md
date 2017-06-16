@@ -60,6 +60,11 @@ Windows Tools
 
 - 文本编辑: [Sublime Text](http://www.sublimetext.com/)  &  [Notepad++](https://notepad-plus-plus.org/) 
 
+> 教师工具
+
+- [GeoGebra](https://www.geogebra.org/?lang=zh_CN) 
+
+- [AxMath](http://www.amyxun.com/) 数学公式编辑器
 
 ## 开发相关
 
