@@ -9,6 +9,8 @@ Adb commands
 
 - [adb-enhanced](https://github.com/ashishb/adb-enhanced)
 
+- [adbportforward](https://bitbucket.org/chabernac/adbportforward)
+
 ## 常用adb命令 
 
 - adb version
