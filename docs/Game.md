@@ -1,6 +1,7 @@
 # Game
 Game Dev Tools
 
+# Unity
 
 ## Unity软件
 
@@ -33,5 +34,12 @@ Game Dev Tools
 |	<kbd> Ctrl+R、Ctrl+E</kbd>              		|   自动实现Get/Set				|
 
 
+# Cocos2d-X
+
+- [官网](http://www.cocos.com/)
+
+# Refs
+
+- [Unity & Cocos2D-x](http://subject.manew.com/unity-cocos/)
 
 
