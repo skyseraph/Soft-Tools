@@ -13,5 +13,6 @@
 
 - [IAR](https://www.iar.com/iar-embedded-workbench/)
 
+- [KiCad EDA](http://kicad-pcb.org) 开源
 
 ## 实用参考
