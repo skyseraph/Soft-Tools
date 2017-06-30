@@ -6,7 +6,8 @@ Mac Soft Tools
 ## 实用工具
 
 - [Homebrew](https://brew.sh/index_zh-cn.html) 包管理工具，方便获得各类实用工具  
-使用： brew install/uninstall xx  
+使用： brew install/uninstall xx   
+[homebrew-cask](https://github.com/caskroom/homebrew-cask)   
 
 - [iTerm2](https://www.iterm2.com/) 终端工具，替代Mac自带Terminal
 
@@ -40,6 +41,9 @@ Mac Soft Tools
 
 - [QuickTime](https://support.apple.com/downloads/quicktime) 视频录制
 
+- [AppleDNS](https://github.com/gongjianhui/AppleDNS) Apple 网络服务加速配置
+
+- [m-cli](https://github.com/rgcr/m-cli) Swiss Army Knife for macOS
 
 ## 开发相关
 
@@ -71,6 +75,9 @@ Mac Soft Tools
 
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)  Windos/Mac OS/Linux 
 
+- [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)
+
+
 ## 实用技巧
 
 - 在 Finder 窗口显示更多信息
@@ -93,6 +100,8 @@ Mac Soft Tools
 - [ocds-guide-to-setting-up-mac](https://github.com/macdao/ocds-guide-to-setting-up-mac)  强迫症的 Mac 设置指南
  
 - [hzlzh/Best-App](https://github.com/hzlzh/Best-App) 收集&推荐优秀的 Apps/硬件/技巧/周边等
+
+- [awesome-mac](https://github.com/AllAwsome/awesome-mac)  Awesome
 
 - [macOS (OS X) 平台上有哪些值得推荐的常用软件？](https://www.zhihu.com/question/19550256)
 
