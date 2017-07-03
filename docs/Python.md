@@ -68,3 +68,7 @@ C:\Users\name\.condarc 文件  # for windows
 - [Anaconda Homepage](https://www.continuum.io/why-anaconda)
 - [Anaconda Documentation](https://docs.continuum.io/anaconda/index)
 - [Conda Docs](http://conda.pydata.org/docs/index.html)
+
+## 实用参考
+
+- [专为渗透测试人员设计的Python工具大合集](http://www.freebuf.com/sectool/138779.html) 
