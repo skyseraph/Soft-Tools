@@ -50,7 +50,7 @@ Windows Tools
 
 ## 办公相关
  
-- Office: [Microsoft Office](https://www.microsoft.com/zh-cn)  &  [MathType](http://www.mathtype.cn/)
+- Office: [Microsoft Office](https://www.microsoft.com/zh-cn)  &  [MathType](http://www.mathtype.cn/) & [islide](https://www.islide.cc/)
 
 - 文件比较: [Beyond Compare](http://www.scootersoftware.com/) & [Araxis.Merge](https://www.araxis.com/merge/index.en)
 
