@@ -26,7 +26,7 @@
 
 - [Axure](https://www.axure.com.cn/)  原型设计工具 [Axure中文网](https://www.axure.com.cn/category/axure/)
 
-- [Sketch](https://www.sketchapp.com/) 扁平化UI设计工具（Mac） [Sketch中文网](http://www.sketchcn.com/sketch-chinese-user-manual.html)
+- [Sketch](https://www.sketchapp.com/) 扁平化UI设计工具（Mac） [Sketch中文网](http://www.sketchcn.com/sketch-chinese-user-manual.html) & [开源插件WeSketch](https://github.com/weixin/WeSketch) 
 
 - [Justinmind](http://www.justinmind.com.cn/)
 
