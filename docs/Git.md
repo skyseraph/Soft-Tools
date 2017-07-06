@@ -5,7 +5,7 @@ Git commands
 
 - [SmartGit](http://www.syntevo.com/smartgit/)
 
-- [LearnGitBranching](learngitbranching.js.org)
+- [LearnGitBranching](http://learngitbranching.js.org)
 
 
 ## 常用Git命令
