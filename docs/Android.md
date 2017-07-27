@@ -32,6 +32,10 @@ Android Tools
 |	<kbd>Alt+Enter</kbd>        	|	<kbd>Opt+Enter</kbd>        	|   Quick Fix 					|
 |	<kbd>Alt+Ctrl+L</kbd>        	|	<kbd>Cmd+Opt+L</kbd>        	|   格式化代码Format				|
 
+### 实用设置
+
+- 快速Import. Setting -> Editor -> General -> Auto Import
+
 ### 实用工具
 
 - [Genymotion](https://plugins.jetbrains.com/plugin/7269-genymotion) 老牌模拟器，快！
@@ -101,9 +105,9 @@ Android Tools
 |	<kbd>Ctrl+Shift+T</kbd>        	|   快速查找类					|
 |	<kbd>Ctrl+Shift+R</kbd>        	|   快速查找文件					|
 |	<kbd>Ctrl+Shift+G</kbd>        	|   查找类、方法和属性的引用		|
-|	<kbd>Ctrl+Shift+O</kbd>        	|   快速生成import				|
 |	<kbd>Ctrl+Shift+F</kbd>        	|   格式化代码					|
 |	<kbd>Ctrl+K/Ctrl++Shift+K</kbd>	|   快速向下和向上查找选定的内容	|
+|	<kbd>Ctrl+Shift+O</kbd>        	|   快速生成import				|
   
 
 
