@@ -34,7 +34,9 @@ Android Tools
 
 ### 实用设置
 
-- 快速Import. Setting -> Editor -> General -> Auto Import
+- 黑色主题：  Settings –> Appearance –> Theme -> Darcula 
+- 快速Import： Setting -> Editor -> General -> Auto Import
+- 显示行号： Settings –> Editor –> Appearance -> 勾选 Show line numbers
 
 ### 实用工具
 
