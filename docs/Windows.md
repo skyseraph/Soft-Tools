@@ -13,6 +13,7 @@ Windows Tools
 
 - [host](https://laod.cn/hosts)
 
+- [cntlm](http://cntlm.sourceforge.net) 代理上网工具
 
 > 笔记类工具
 
