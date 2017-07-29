@@ -31,6 +31,8 @@ Android Tools
 |	<kbd>Shift+Shift</kbd>        	|	<kbd>Shift+Shift</kbd>        	|   Search Everywhere			|
 |	<kbd>Alt+Enter</kbd>        	|	<kbd>Opt+Enter</kbd>        	|   Quick Fix 					|
 |	<kbd>Alt+Ctrl+L</kbd>        	|	<kbd>Cmd+Opt+L</kbd>        	|   格式化代码Format				|
+|	<kbd>Ctrl+Plus/Minus</kbd>        	|	<kbd>Cmd+Plus/Minus</kbd>        	|   折叠展开代码块				|
+|	<kbd>Ctrl+Shift+Plus/Minus</kbd>    |	<kbd>Cmd+Shift+Plus/Minus</kbd>   |   折叠展开全部代码块		|
 
 ### 实用设置
 
