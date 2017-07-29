@@ -16,8 +16,8 @@ Android Tools
 
 |	Win.Keymap						|	Mac.Keymap						|	Des.						|
 |----------------------				|----------------------				|--------------------------		|
-|	<kbd>Ctrl+O</kbd>              	|	<kbd>Cmd+O</kbd>              	|   显示类中方法和属性的大纲		|
 |	<kbd>Ctrl+/</kbd>              	|	<kbd>Cmd+/</kbd>              	|   快速添加注释					|
+|	<kbd>Ctrl+Shift+/</kbd>         |	<kbd>Cmd+Option+/</kbd>         |   快速添加注释    			|
 |	<kbd>Ctrl+Y</kbd>              	|	<kbd>Cmd+Backspace</kbd>       	|   删除当前行					|
 |	<kbd>Ctrl+D</kbd>              	|	<kbd>Cmd+D</kbd>       			|   复制当前行					|
 |	<kbd>Ctrl+E</kbd>              	|	<kbd>Cmd+E</kbd>       			|   显示最近打开文件窗口			|
@@ -29,10 +29,11 @@ Android Tools
 |	<kbd>Ctrl+Shift+F</kbd>        	|	<kbd>Cmd+Shift+F</kbd>  		    |   Find In Path			|
 |	<kbd>Ctrl+N</kbd>        		|	<kbd>Cmd+N</kbd>        		        |   快速查找类					|
 |	<kbd>Shift+Shift</kbd>        	|	<kbd>Shift+Shift</kbd>        	|   Search Everywhere			|
-|	<kbd>Alt+Enter</kbd>        	|	<kbd>Opt+Enter</kbd>        	|   Quick Fix 					|
-|	<kbd>Alt+Ctrl+L</kbd>        	|	<kbd>Cmd+Opt+L</kbd>        	|   格式化代码Format				|
-|	<kbd>Ctrl+Plus/Minus</kbd>        	|	<kbd>Cmd+Plus/Minus</kbd>        	|   折叠展开代码块				|
-|	<kbd>Ctrl+Shift+Plus/Minus</kbd>    |	<kbd>Cmd+Shift+Plus/Minus</kbd>   |   折叠展开全部代码块		|
+|	<kbd>Alt+Enter</kbd>        	|	<kbd>Opt+Enter</kbd>        	          |   Quick Fix 					   |
+|	<kbd>Ctrl+O</kbd>              	    |	<kbd>Cmd+O</kbd>              	  |   显示类中方法和属性的大纲	|
+|	<kbd>Alt+Ctrl+L</kbd>        	      |	<kbd>Cmd+Opt+L</kbd>        	    |   格式化代码Format				  |
+|	<kbd>Ctrl+Plus/Minus</kbd>        	|	<kbd>Cmd+Plus/Minus</kbd>        	|   展开/折叠代码块				  |
+|	<kbd>Ctrl+Shift+Plus/Minus</kbd>    |	<kbd>Cmd+Shift+Plus/Minus</kbd>   |   展开/折叠全部代码块		  |
 
 ### 实用设置
 
