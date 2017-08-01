@@ -13,6 +13,8 @@ Mac Soft Tools
 
 - [Sublime Text 2](https://sublimetext.com/2)
 
+- [ohMyStar 2](https://ohmystarapp.com/) Github辅助管理工具
+
 - tree: 以树状结构显示当前文件或文件夹的命令
 
 - [Mou](http://25.io/mou/)/[MacDown](http://macdown.uranusjr.com/)  Markdown 编辑器
