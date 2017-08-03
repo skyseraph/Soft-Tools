@@ -88,6 +88,8 @@ Android Tools
 
 - [Sexy Editor](https://plugins.jetbrains.com/plugin/1833-sexy-editor) 让你的Android Studio性感起来(编辑区的背景图片)
 
+- [Android Methods Count](http://www.methodscount.com/plugins) 方法统计
+
 > Refs  
 
 - [awesome-androidstudio-plugins](https://github.com/jiang111/awesome-androidstudio-plugins)
