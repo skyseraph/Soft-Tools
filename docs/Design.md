@@ -74,6 +74,8 @@
 
 - [Diagram Designer](http://logicnet.dk/DiagramDesigner/)  画图好工具
 
+- [ShareX](https://github.com/ShareX/ShareX)
+
 > 录屏/视频录制
 
 - [Camtasia Studio](https://www.techsmith.com/camtasia.html) 专业的屏幕录制完全解决套件(录制教学视频的绝佳选择，后期处理强大)
