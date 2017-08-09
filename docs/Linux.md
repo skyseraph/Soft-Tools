@@ -30,6 +30,16 @@ Linux Tools
 
 todo
 
+## Ubuntu设置
+
+- 快速开启终端： Alt+Ctrl+T  
+- 终端添加到右键中显示： sudo apt-get install nautilus-open-terminal   
+
+> 实用推荐  
+
+[Linux系列：Ubuntu/fedora实用小技巧—禁止自动锁屏、设置免密码自动登录、免密码执行sudo操作](http://www.cnblogs.com/lanxuezaipiao/p/3617436.html) 
+
+
 ## 实用参考  
 
 - [那个程序员的Linux常用软件清单](http://www.jianshu.com/p/ac6e13290698)
