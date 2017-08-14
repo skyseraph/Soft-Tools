@@ -40,6 +40,7 @@ Android Tools
 - 黑色主题：  Settings –> Appearance –> Theme -> Darcula 
 - 快速Import： Setting -> Editor -> General -> Auto Import
 - 显示行号： Settings –> Editor –> Appearance -> 勾选 Show line numbers
+- Ctrl+Mouse 字体缩放： Settings –> Editor –> General -> 勾选 Change font size with ** 
 
 ### 实用工具
 
