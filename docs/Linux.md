@@ -43,6 +43,7 @@ todo
 ## 实用参考  
 
 - [那个程序员的Linux常用软件清单](http://www.jianshu.com/p/ac6e13290698)
+- [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software)
 
 
 
