@@ -7,8 +7,8 @@ One of the most the most practical tools included, welcome to stars.
 
 [![GitHub stars](https://img.shields.io/github/stars/skyseraph/Soft-Tools.svg?style=social&label=Star)](https://github.com/skyseraph/Soft-Tools)
 [![GitHub watchers](https://img.shields.io/github/watchers/skyseraph/Soft-Tools.svg?style=social&label=Watch)](https://github.com/skyseraph/Soft-Tools)
-[![GitHub followers](https://img.shields.io/github/followers/skyseraph.svg?style=social&label=Follow)](https://github.com/skyseraph/Soft-Tools)   
-[![](https://badge.juejin.im/entry/58d7452e0ce4630057066ef9/likes.svg?style=flat-square)](https://juejin.im/entry/58d7452e0ce4630057066ef9/detail)  
+[![GitHub followers](https://img.shields.io/github/followers/skyseraph.svg?style=social&label=Follow)](https://github.com/skyseraph/Soft-Tools)  
+[![](https://badge.juejin.im/entry/58d7452e0ce4630057066ef9/likes.svg?style=flat-square)](https://juejin.im/entry/58d7452e0ce4630057066ef9/detail) 
 
 # MENU
 
