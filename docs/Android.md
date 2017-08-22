@@ -116,6 +116,7 @@ Android Tools
 |	<kbd>Ctrl+Shift+F</kbd>        	|   格式化代码					|
 |	<kbd>Ctrl+K/Ctrl++Shift+K</kbd>	|   快速向下和向上查找选定的内容	|
 |	<kbd>Ctrl+Shift+O</kbd>        	|   快速生成import				|
+|	<kbd>Alt+Shift+J</kbd>        	|   快速生成JavaDoc注释			|
   
 
 
