@@ -99,13 +99,17 @@ git push origin master //重新创建远程master分支
 
 - [kdiff3](http://kdiff3.sourceforge.net/) 
 
-git config --global --add merge.tool kdiff3  
-git config --global --add mergetool.kdiff3.path "C:/xx/KDiff3/kdiff3.exe"  
-git config --global --add mergetool.kdiff3.trustExitCode false  
+Git 配置
+
+git config --global --add merge.tool kdiff3    
+git config --global --add mergetool.kdiff3.path "C:/xx/KDiff3/kdiff3.exe"    
+git config --global --add mergetool.kdiff3.trustExitCode false    
  
-git config --global --add diff.guitool kdiff3  
-git config --global --add difftool.kdiff3.path "C:/xx/KDiff3/kdiff3.exe"  
-git config --global --add difftool.kdiff3.trustExitCode false  
+git config --global --add diff.guitool kdiff3    
+git config --global --add difftool.kdiff3.path "C:/xx/KDiff3/kdiff3.exe"    
+git config --global --add difftool.kdiff3.trustExitCode false    
+
+- [git-mergetool](https://git-scm.com/docs/git-mergetool)
 
 - [代码合并：Merge、Rebase-的选择](https://github.com/geeeeeeeeek/git-recipes/wiki/5.1-代码合并：Merge、Rebase-的选择)
 
