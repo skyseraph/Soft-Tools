@@ -111,6 +111,8 @@ git rm --cached .classpath
 
 ## 实用参考  
 
+- [git-recipes](https://github.com/geeeeeeeeek/git-recipes/wiki)  Good!
+
 - [《Git权威指南》]()
 
 - [《Git Community Book 中文版》](http://gitbook.liuhui998.com/index.html)
