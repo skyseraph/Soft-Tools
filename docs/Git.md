@@ -93,6 +93,7 @@ git push origin :master // 删除远程的master分支
 
 git push origin master //重新创建远程master分支
 
+- [Reset、Checkout、Revert-的选择](https://github.com/geeeeeeeeek/git-recipes/wiki/5.2--代码回滚：Reset、Checkout、Revert-的选择)
 
 > Git中文乱码 
 
