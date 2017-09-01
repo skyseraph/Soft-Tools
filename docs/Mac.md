@@ -113,6 +113,6 @@ Mac Soft Tools
 
 - [Manually generating your SSH key in Mac OS X](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-mac-os-x) 
 
-
+- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os)
 
 
