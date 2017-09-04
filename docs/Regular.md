@@ -105,4 +105,4 @@ Regular All~
 
 - [RegExCheatsheet](https://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf)
 
-![Regular Expression Cheat Sheet](http://upload-images.jianshu.io/upload_images/1399853-1b08244a4d375624.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Regular Expression Cheat Sheet](http://upload-images.jianshu.io/upload_images/1399853-1b08244a4d375624.jpg)
