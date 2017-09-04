@@ -50,9 +50,6 @@ Regular All~
 |		\un			|匹配 n，其中 n 是一个用四个十六进制数字表示的 Unicode 字符。例如， \u00A9 匹配版权符号 (?)。|
 
 
-
-
-
 ## 常用
 
 ### 校验数字的表达式
@@ -96,8 +93,16 @@ Regular All~
 
 ## 实用参考
 
+- [regex101](https://regex101.com/#java)  正则表达式在线测试工具, Good!
+
 - [regexr](http://www.regexr.com/) 在线Check
 
 - [最全的常用正则表达式大全](http://www.cnblogs.com/zxin/archive/2013/01/26/2877765.html)
 
+- [学习指南](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference)
 
+- [regular-expressions-cheat-sheet](http://files.zeroturnaround.com/pdf/zt_regular-expressions-cheat-sheet.pdf)
+
+- [RegExCheatsheet](https://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf)
+
+![Regular Expression Cheat Sheet](http://upload-images.jianshu.io/upload_images/1399853-1b08244a4d375624.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
