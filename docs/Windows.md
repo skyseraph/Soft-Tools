@@ -92,7 +92,8 @@ Windows Tools
 - [Intellij IDEA](http://www.jetbrains.com/idea/)
 
 - [Visual Studio](https://www.visualstudio.com/)  & [Visual_Assist_X](http://www.wholetomato.com/)   
-[MSDN我告诉你](http://msdn.itellyou.cn/) MicroSoft系列软件下载，感谢雪龙狼前辈~~
+[MSDN我告诉你](http://msdn.itellyou.cn/) MicroSoft系列软件下载，感谢雪龙狼前辈~~   
+[15-essential-plugins-for-visual-studio-code](https://tutorialzine.com/2017/06/15-essential-plugins-for-visual-studio-code)    
 
 - [Pycharm-community](http://www.jetbrains.com/pycharm/)
 
