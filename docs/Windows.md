@@ -59,7 +59,7 @@ Windows Tools
 
 - PDF: [Foxit Phantom PDF](http://www.foxitsoftware.cn/products/sdk/phantomPDF_plugin/feature.php)
 
-- 文本编辑: [Sublime Text](http://www.sublimetext.com/)  &  [Notepad++](https://notepad-plus-plus.org/) 
+- 文本/代码编辑: [Sublime Text](http://www.sublimetext.com/)  &  [Notepad++](https://notepad-plus-plus.org/) & [visualstudio](https://code.visualstudio.com/)
 
 > 教师工具
 
