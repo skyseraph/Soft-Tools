@@ -38,3 +38,19 @@
 - [看雪](http://www.pediy.com/)
 - [ohloh](https://www.ohloh.net/)
 - [openhub](https://www.openhub.net/)
+
+## 实用查询
+
+> 专利查询
+
+- [Soopat](http://www.soopat.com/)
+- [patentics](http://www.patentics.com/)
+- [专利信息服务平台](http://search.cnipr.com/)
+- [中国专利网](http://www.cnpatent.com/)
+- [中国知识产权局](http://www.sipo.gov.cn/)
+- [广东知识产权中心](http://www.guangdongip.gov.cn/)
+- [百度专利](http://zhuanli.baidu.com/)
+- [专利之星](http://searchtel.patentstar.com.cn)
+
+
+
