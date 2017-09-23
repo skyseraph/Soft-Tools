@@ -1,4 +1,4 @@
-# Soft-Tools
+# Awesome Soft Tools
 最最最实用的工具荟萃收录，没有之一，欢迎补充.  
 One of the most the most practical tools included, welcome to stars.
 
@@ -12,8 +12,8 @@ One of the most the most practical tools included, welcome to stars.
 
 # MENU
 
-## 通用篇 / General 
-|			目录					|		简介				|
+## General 
+|			Menu					|		Desc.				|
 |----------------------------	|-----------------------|
 |	[Windows](docs/Windows.md)	|	Windows Soft Tools	|
 |	[Mac](docs/Mac.md)			|	Mac Soft Tools		|
@@ -23,23 +23,23 @@ One of the most the most practical tools included, welcome to stars.
 |	[HardWare](docs/HardWare.md)|	HardWare Tools		|
 
 
-## 专题篇 / Subject 
+## Subject 
 
-|				目录					|		简介			|
+|				Menu					|		Desc.			|
 |----------------------------------	|--------------		|
 |	[Android](docs/Android.md)			|	Android Tools	|
 |	[iOS](docs/iOS.md)				    |	iOS Tools		|
 |	[Game](docs/Game.md)			    |	Game Dev Tools	|
 |	[NFC](docs/NFC.md)				    |	NFC  Tools		|
-|	[Design](docs/Design.md)			|	产品设计			|
-|	[AI](docs/AI_CV.md)				    |	AI 专场		 	|
-|	[Hexo](docs/Hexo.md)				|   Hexo 专场 		|
-|	[Test](docs/Test.md)			    |	测试 Tools		|
-|	[Reverse](docs/Reverse.md)			|	安全逆向	  		|
+|	[Design](docs/Design.md)			|	Product Design			|
+|	[AI](docs/AI_CV.md)				    |	AI 		 	|
+|	[Hexo](docs/Hexo.md)				|   Hexo 		|
+|	[Test](docs/Test.md)			    |	Test Tools		|
+|	[Reverse](docs/Reverse.md)			|	Security Reverse	  		|
 
-## 命令类 / Commands
+## Commands
 
-|				目录					|		简介			|
+|				Menu					|		Desc.			|
 |----------------------------------	|--------------		|
 |	[Git](docs/Git.md)				|	Git Commands	    |
 |	[Adb](docs/Adb.md)				|	Adb Commands	    |
@@ -48,9 +48,9 @@ One of the most the most practical tools included, welcome to stars.
 |	[Regular](docs/Regular.md)		|	Regular           	|
 |	[Python](docs/Python.md)		|	Python	Commands	|
 
-## 网站类 / Web Links
+## Web Links
 
-|				目录					|		简介			|
+|				Menu					|		Desc.			|
 |----------------------------------	|--------------		|
 |	[Dev Webs](docs/LinkDep.md)		|	Dep Web Links	|
 |	[Mobile Dev](docs/LinkDevMobile.md)		|	 Mobile Dep Links	|
