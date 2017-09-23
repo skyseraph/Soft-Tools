@@ -93,6 +93,8 @@
 
 - [石墨文档](https://shimo.im/)  在线协作文档
 
+- [产品大牛](http://www.pmdaniu.com/)
+
 # 实用参考
 
 - [awesome-design-cn](https://github.com/jobbole/awesome-design-cn)
