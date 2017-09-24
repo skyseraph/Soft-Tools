@@ -39,6 +39,17 @@
 - [ohloh](https://www.ohloh.net/)
 - [openhub](https://www.openhub.net/)
 
+> 头条类
+
+- [V2EX](https://www.v2ex.com)
+- [掘金](https://juejin.im/#/)
+- [开发者头条](https://toutiao.io)
+- [干货集中营](http://gank.io)
+- [大牛](http://daniu.io)
+- [segmentfault](https://segmentfault.com/news)
+......
+
+
 ## 实用查询
 
 > 专利查询
