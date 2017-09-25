@@ -6,6 +6,23 @@
 - [wulihub](http://www.wulihub.com/) 互联网从业者的导航网站
 - [seeseed](https://www.seeseed.com/) 设计导航网站
 
+> 技术头条
+
+- [Hacker News](https://news.ycombinator.com/)
+- [V2EX](https://www.v2ex.com)
+- [掘金](https://juejin.im/#/)
+- [开发者头条](https://toutiao.io)
+- [干货集中营](http://gank.io)
+- [大牛](http://daniu.io)
+- [segmentfault](https://segmentfault.com/news)
+- [AI100](http://geek.ai100.com.cn/)
+......
+
+> 产品头条
+
+- [producthunt](https://www.producthunt.com/)
+- [Next](http://next.36kr.com/posts)
+
 ## 实用工具
 
 > 云存储
@@ -39,15 +56,6 @@
 - [ohloh](https://www.ohloh.net/)
 - [openhub](https://www.openhub.net/)
 
-> 头条类
-
-- [V2EX](https://www.v2ex.com)
-- [掘金](https://juejin.im/#/)
-- [开发者头条](https://toutiao.io)
-- [干货集中营](http://gank.io)
-- [大牛](http://daniu.io)
-- [segmentfault](https://segmentfault.com/news)
-......
 
 
 ## 实用查询
