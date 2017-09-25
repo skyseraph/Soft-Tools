@@ -15,11 +15,11 @@
 
 > 代码托管
 
-- [Github](https://github.com/)
-- [bitbucket](https://bitbucket.org/)
-- [coding](https://coding.net/)
-- [taobao](http://code.taobao.org/)
-- [码云](https://git.oschina.net/)
+- [Github](https://github.com/) Git
+- [bitbucket](https://bitbucket.org/) Git
+- [coding](https://coding.net/) Git
+- [TaoCode](http://code.taobao.org/) svn
+- [码云](https://git.oschina.net/) Git
 
 > 项目管理
 
