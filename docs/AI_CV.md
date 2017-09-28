@@ -1,8 +1,8 @@
 # AI & CV
 
-## AI（Artificial Intelligence）
+## AI/Artificial Intelligence
 
-## ML（Machine Learning） & DL（Deep Learning） &  PR（Pattern Recognition）
+## ML/Machine Learning & DL/Deep Learning &  PR/Pattern Recognition
 
 > ML
 
@@ -19,14 +19,19 @@
 - [CNTK](https://github.com/Microsoft/CNTK)  Microsoft
 
 
-## CV （Computer Vision） & MV（Machine Vision）
+## CV/Computer Vision & MV/Machine Vision
 
 - [OpenCV](http://opencv.org/)
 
+- [OpenCV Books](http://opencv.org/books.html), [OpenCV.3.Computer.Vision.Application.Programming.Cookbook.3rd.Edition](http://download.csdn.net/download/ramissue/9755121)
 
-## 实用参考
+- [JavaCV](https://github.com/bytedeco/javacv)
+
+## Refs
 
 - [Comparing Frameworks: Deeplearning4j, Torch, Theano, TensorFlow, Caffe, Paddle, MxNet, Keras & CNTK](https://deeplearning4j.org/compare-dl4j-torch7-pylearn)
+
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 - [机器学习日报](http://ml.memect.com/)
 
