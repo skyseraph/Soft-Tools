@@ -33,7 +33,8 @@
 > 代码托管
 
 - [Github](https://github.com/) Git
-- [bitbucket](https://bitbucket.org/) Git
+- [bitbucket](https://bitbucket.org/) Git(支持私有免费项目)
+- [GoogleCode](http://code.google.com/) svn/mercurial/Git 
 - [coding](https://coding.net/) Git
 - [TaoCode](http://code.taobao.org/) svn
 - [码云](https://git.oschina.net/) Git
