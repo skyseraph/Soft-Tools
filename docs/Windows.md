@@ -139,7 +139,7 @@ Windows Tools
 
 - [charles](https://www.charlesproxy.com/)  代理工具
 
-> **终端工具**
+> **终端/辅助工具**
 
 - [Putty](http://www.putty.org/) & [Putty with psd](https://unmi.cc/wp-content/uploads/2010/06/putty_v6.0.rar)  & [PuttyMan](http://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/PuttyMan.shtml)
 
@@ -147,7 +147,7 @@ Windows Tools
 
 - [SecureCRT](https://www.vandyke.com/download/securecrt/download.html)
 
-- [Xshell](http://www.netsarang.com/products/xsh_overview.html)
+- [Xshell](http://www.netsarang.com/products/xsh_overview.html)  [Xftp5](https://www.netsarang.com/products/xfp_overview.html)
 
 - [FileZilla](https://filezilla-project.org/) FTP传输工具
 
