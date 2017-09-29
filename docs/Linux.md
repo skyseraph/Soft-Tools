@@ -2,6 +2,7 @@
 Linux Tools
 
 - [Ubuntu](http://www.ubuntu.com/download/)
+- [EasyBCD](http://neosmart.net/EasyBCD/) windows下修改系统引导来安装Ubuntu
 
 ## 实用软件
 
