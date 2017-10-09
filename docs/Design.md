@@ -22,6 +22,8 @@
 
 - [MindNode](https://mindnode.com/)	（Mac）
 
+- [幕布](https://mubu.com/)  在线
+
 ## **产品设计**
 
 - [Axure](https://www.axure.com.cn/)  原型设计工具 [Axure中文网](https://www.axure.com.cn/category/axure/)
