@@ -91,6 +91,8 @@ Android Tools
 
 - [Android Methods Count](http://www.methodscount.com/plugins)  三方库方法统计 [methodscount](http://www.methodscount.com)
 
+- [svgtoandroid](https://github.com/misakuo/svgtoandroid) 矢量化图片转换插件
+
 > Refs  
 
 - [awesome-androidstudio-plugins](https://github.com/jiang111/awesome-androidstudio-plugins)
