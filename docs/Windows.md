@@ -55,7 +55,7 @@ Windows Tools
 
 - 文件比较: [Beyond Compare](http://www.scootersoftware.com/) & [Araxis.Merge](https://www.araxis.com/merge/index.en)
 
-- MarkDown: [MarkdownPad 2](http://www.markdownpad.com/)
+- MarkDown: [MarkdownPad 2](http://www.markdownpad.com/)  [typora](https://www.typora.io/)
 
 - PDF: [Foxit Phantom PDF](http://www.foxitsoftware.cn/products/sdk/phantomPDF_plugin/feature.php)
 
