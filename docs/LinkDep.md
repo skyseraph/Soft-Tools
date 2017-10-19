@@ -28,7 +28,7 @@
 > 云存储
 
 - [阿里云](https://www.aliyun.com/)
-- [七牛](https://www.qiniu.com/)
+- [七牛](https://www.qiniu.com/) & [wailian](http://www.wailian.work/)
 
 > 代码托管
 
