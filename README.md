@@ -5,10 +5,14 @@ One of the most the most practical tools included, welcome to stars.
 工欲善其事，必先利其器！ Star? Follow? Support? 你懂！
 
 
+[![GitHub tag](https://img.shields.io/github/tag/skyseraph/Soft-Tools.svg)](https://github.com/skyseraph/Soft-Tools/releases)
+[![GitHub issues](https://img.shields.io/github/issues/skyseraph/Soft-Tools.svg)](https://github.com/skyseraph/Soft-Tools/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/skyseraph/Soft-Tools.svg)](https://github.com/skyseraph/Soft-Tools/pulls)
+
 [![GitHub stars](https://img.shields.io/github/stars/skyseraph/Soft-Tools.svg?style=social&label=Star)](https://github.com/skyseraph/Soft-Tools)
 [![GitHub watchers](https://img.shields.io/github/watchers/skyseraph/Soft-Tools.svg?style=social&label=Watch)](https://github.com/skyseraph/Soft-Tools)
-[![GitHub followers](https://img.shields.io/github/followers/skyseraph.svg?style=social&label=Follow)](https://github.com/skyseraph/Soft-Tools)  
-[![](https://badge.juejin.im/entry/58d7452e0ce4630057066ef9/likes.svg?style=flat-square)](https://juejin.im/entry/58d7452e0ce4630057066ef9/detail) 
+[![GitHub followers](https://img.shields.io/github/followers/skyseraph.svg?style=social&label=Follow)](https://github.com/skyseraph/Soft-Tools)
+[![](https://badge.juejin.im/entry/58d7452e0ce4630057066ef9/likes.svg?style=flat-square)](https://juejin.im/entry/58d7452e0ce4630057066ef9/detail)
 
 # MENU
 
