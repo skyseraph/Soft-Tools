@@ -17,7 +17,7 @@ Mac Soft Tools
 
 - tree: 以树状结构显示当前文件或文件夹的命令
 
-- [Mou](http://25.io/mou/)/[MacDown](http://macdown.uranusjr.com/)  Markdown 编辑器
+- [typora/多平台](https://www.typora.io/)/[Mou](http://25.io/mou/)/[MacDown](http://macdown.uranusjr.com/)  Markdown 编辑器
 
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) 长按⌘显示当前程序的快捷键列表
 
