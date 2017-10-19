@@ -27,7 +27,9 @@ Reverse Tools
 
 - [Smali2Java](http://www.hensence.com/cn/smali2java) APK图形化浏览工具
 
-- [CodeInspect](https://bytecodeviewer.com/) 支持调试和编辑
+- [CodeInspect](https://blogs.uni-paderborn.de/sse/tools/codeinspect/) 
+
+- [bytecodeviewer](https://bytecodeviewer.com/)
 
 - [APKIDE](http://www.xiaomiren.net/ ) 国人开发综合图形化工具
 
