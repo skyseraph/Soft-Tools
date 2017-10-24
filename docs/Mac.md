@@ -79,6 +79,7 @@ Mac Soft Tools
 
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)
 
+- [iPic](https://itunes.apple.com/cn/app/id1101244278?mt=12)   [图床神器](https://toolinbox.net/iPic/)
 
 ## 实用技巧
 
@@ -114,5 +115,7 @@ Mac Soft Tools
 - [Manually generating your SSH key in Mac OS X](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-mac-os-x) 
 
 - [my-mac-os](https://github.com/nikitavoloboev/my-mac-os)
+
+- [toolinbox](https://toolinbox.net/)
 
 
