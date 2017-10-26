@@ -62,6 +62,8 @@ One of the most the most practical tools included, welcome to stars.
 
 # Others
 
+- [All awesome-projects](https://github.com/skyseraph/awesome-projects)
+
 ## Update    
 
 [**Sync**](http://skyseraph.com/2014/08/06/Tools/IT生涯，我的常用软件清单/)   
