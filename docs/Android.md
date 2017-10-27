@@ -31,6 +31,8 @@ Android Tools
 |	<kbd>Shift+Shift</kbd>        	|	<kbd>Shift+Shift</kbd>        	|   Search Everywhere			|
 |	<kbd>Alt+Enter</kbd>        	|	<kbd>Opt+Enter</kbd>        	          |   Quick Fix 					   |
 |	<kbd>Ctrl+O</kbd>              	    |	<kbd>Cmd+O</kbd>              	  |   显示类中方法和属性的大纲	|
+|	<kbd>Ctrl+F12</kbd>              	  |	<kbd>Cmd+F12</kbd>              	  |   显示Members	|
+|	<kbd>Alt+7</kbd>              	    |	<kbd>Cmd+7</kbd>              	  |   显示Structure	|
 |	<kbd>Alt+Ctrl+L</kbd>        	      |	<kbd>Cmd+Opt+L</kbd>        	    |   格式化代码Format				  |
 |	<kbd>Ctrl+Plus/Minus</kbd>        	|	<kbd>Cmd+Plus/Minus</kbd>        	|   展开/折叠代码块				  |
 |	<kbd>Ctrl+Shift+Plus/Minus</kbd>    |	<kbd>Cmd+Shift+Plus/Minus</kbd>   |   展开/折叠全部代码块		  |
