@@ -10,10 +10,16 @@
 
 ## 设计
 
-- [阿里巴巴矢量图标库](http://iconfont.cn/)
+- [iconfont](http://iconfont.cn/) 阿里巴巴矢量图标库
+- [icons8](https://icons8.com/)
+- [iconfinder](https://www.iconfinder.com/)
+- [Noun Project](https://thenounproject.com/)
+- [Material icons](https://material.io/icons/)
 - [material UP](https://material.uplabs.com/)
-- [ionicons](https://github.com/driftyco/ionicons/)
 - [Google Material-Design-Icons](https://github.com/google/material-design-icons)
+- [swifticons](http://fontawesome.io/)
+- [Font-Awesome](https://www.swifticons.com/)
+- [ionicons](https://github.com/driftyco/ionicons/)
 - [产品大牛](http://www.pmdaniu.com/)
 
 ## 测试
