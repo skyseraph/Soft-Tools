@@ -36,7 +36,7 @@ Android Tools
 |	<kbd>Alt+Ctrl+L</kbd>        	      |	<kbd>Cmd+Opt+L</kbd>        	    |   格式化代码Format				  |
 |	<kbd>Ctrl+Plus/Minus</kbd>        	|	<kbd>Cmd+Plus/Minus</kbd>        	|   展开/折叠代码块				  |
 |	<kbd>Ctrl+Shift+Plus/Minus</kbd>    |	<kbd>Cmd+Shift+Plus/Minus</kbd>   |   展开/折叠全部代码块		  |
-|	<kbd>Ctrl+Tab</kbd>    |	<kbd>Cmd + Tab/Minus</kbd>   |   窗口切换（关闭某个窗口，在上面按BackSpace即可）		  |
+|	<kbd>Ctrl+Tab</kbd>    |	<kbd>Cmd + Tab</kbd>   |   窗口切换（关闭某个窗口，在上面按BackSpace即可）		  |
 
 ### 实用设置
 
