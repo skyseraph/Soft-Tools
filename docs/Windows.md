@@ -165,8 +165,13 @@ Windows Tools
 
 - [MethodsCount](http://www.methodscount.com/) 开源项目代码行数和包Size统计
 
+## Windows配置
 
-## 实用参考  
+- thumbs.db  
+关闭thumbs.db缓存: Win+R -> gpedit.msc 用户配置 -> 管理模板 -> windows组件 -> 文件资源管理器 -> 关闭隐藏的windows文件中的缩略图缓存    
+删除thumbs.db缓存：del thumbs.db /f/s/q/a    
+
+## 实用参考  
 
 
 
