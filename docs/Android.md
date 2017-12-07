@@ -96,6 +96,10 @@ Android Tools
 
 - [svgtoandroid](https://github.com/misakuo/svgtoandroid) 矢量化图片转换插件
 
+- [SQLScout (SQLite Support)](https://plugins.jetbrains.com/plugin/8322-sqlscout-sqlite-support-) SQLite 辅助工具(收费)
+
+- [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) 开源SQLite 辅助工具
+
 > Refs  
 
 - [awesome-androidstudio-plugins](https://github.com/jiang111/awesome-androidstudio-plugins)
