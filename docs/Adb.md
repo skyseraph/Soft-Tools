@@ -76,7 +76,27 @@ adb forward tcp:5555 tcp:9001 // 把PC端5555端口的数据, 转发到Android�
 - adb shell dumpsys notification  通知信息
 - adb shell dumpsys wifi Wi-Fi信息
 - adb shell dumpsys power  电源管理信息
-- adb shell dumpsys telephony.registry  电话信息
+- adb shell dumpsys telephony.registry  电话信息  
+- adb shell dumpsys meminfo > meminfo.txt  dump输出
+
+> PackageManager
+
+- adb shell pm list packages
+- adb shell pm list packages -e
+- adb shell pm list packages -d
+- adb shell pm list packages -s
+- adb shell pm list packages -3
+- adb shell pm path [Package Name]
+- adb shell pm clear [Package Name]
+
+> Input Key Event/Input Text    
+
+- adb shell input keyevent [event key]
+- adb shell input keyevent KEYCODE_HOME
+- adb shell input keyevent KEYCODE_BACK
+- adb shell input keyevent KEYCODE_MENU
+- adb shell input text [string]
+
 
 > **获取进程号**    
 
