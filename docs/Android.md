@@ -41,6 +41,7 @@ Android Tools
 ### 实用设置
 
 - 黑色主题：  Settings –> Appearance –> Theme -> Darcula 
+- 护眼设置：  Settings –> Editor –> General -> Text -> Defaul Text -> RGB值分别为199 237 204
 - 快速Import： Setting -> Editor -> General -> Auto Import
 - 显示行号： Settings –> Editor –> Appearance -> 勾选 Show line numbers
 - Ctrl+Mouse 字体缩放： Settings –> Editor –> General -> 勾选 Change font size with ** 
