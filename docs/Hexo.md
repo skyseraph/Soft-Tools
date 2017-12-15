@@ -10,7 +10,7 @@
 
 - [Yelee](https://github.com/MOxFIVE/hexo-theme-yelee)  简而不减 Hexo 双栏博客主题
 
-- [Icarus](https://github.com/yscoder/hexo-theme-indigo)
+- [Icarus](https://github.com/ppoffice/hexo-theme-icarus)
 
 - [Hueman](https://github.com/ppoffice/hexo-theme-hueman)
 
