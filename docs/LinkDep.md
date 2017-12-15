@@ -3,7 +3,7 @@
 
 ## 聚合
 
-- [wulihub](http://www.wulihub.com/) 互联网从业者的导航网站
+- [wulihub](http://daohangwan.com) 互联网从业者的导航网站
 - [seeseed](https://www.seeseed.com/) 设计导航网站
 
 > 技术头条
