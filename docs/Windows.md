@@ -111,7 +111,9 @@ Windows Tools
 
 > **数据库专题**
 
-- SQLite
+- [mysql](https://www.mysql.com/)
+
+- [Navicat Premium](http://www.navicat.com.cn)
 
 - [SQLiteSpy](http://www.softpedia.com/get/Internet/Servers/Database-Utils/SQLiteSpy.shtml)
 
