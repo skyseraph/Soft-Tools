@@ -8,18 +8,25 @@
 
 > 技术头条
 
-- [Hacker News](https://news.ycombinator.com/)
+- [Startup Nes](http://news.dbanotes.net/)
 - [V2EX](https://www.v2ex.com)
 - [掘金](https://juejin.im/#/)
 - [开发者头条](https://toutiao.io)
 - [干货集中营](http://gank.io)
 - [大牛](http://daniu.io)
 - [segmentfault](https://segmentfault.com/news)
+- [CSDN Geek](http://geek.csdn.net)
+- [testerhome](https://testerhome.com)
 - [AI100](http://geek.ai100.com.cn/)
+- [Diycode](https://www.diycode.cc)
+- [小专栏](https://xiaozhuanlan.com)
+- [GitChat](http://gitbook.cn)
+- [知乎专栏](https://zhuanlan.zhihu.com)
 ......
 
 > 产品头条
 
+- [Hacker News](https://news.ycombinator.com/)
 - [producthunt](https://www.producthunt.com/)
 - [Next](http://next.36kr.com/posts)
 - [IT桔子](https://www.itjuzi.com/)
@@ -37,7 +44,7 @@
 > 代码托管
 
 - [Github](https://github.com/) Git
-- [bitbucket](https://bitbucket.org/) Git(支持私有免费项目)
+- [Bitbucket](https://bitbucket.org/) Git(支持私有免费项目)
 - [GoogleCode](http://code.google.com/) svn/mercurial/Git 
 - [coding](https://coding.net/) Git
 - [TaoCode](http://code.taobao.org/) svn
@@ -49,8 +56,8 @@
 
 > 其它
 
-- [ProcessOn](https://www.processon.com/)
-- [Disqus](https://disqus.com/)
+- [ProcessOn](https://www.processon.com/)  在线作图
+- [Disqus](https://disqus.com/)  评论
 
 ### 实用查询
 
