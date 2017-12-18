@@ -1,5 +1,6 @@
 # Python
 
+- [Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 - [Anaconda](https://www.continuum.io/) Python 多版本管理工具
 - [virtualenv](https://virtualenv.pypa.io/en/stable/) 虚拟环境虚拟环境
 - [pyenv](https://github.com/pyenv/pyenv) 虚拟环境虚拟环境
