@@ -56,9 +56,11 @@ One of the most the most practical tools included, welcome to stars.
 
 |				Menu					|		Desc.			|
 |----------------------------------	|--------------		|
-|	[Dev Webs](docs/LinkDep.md)		|	Dep Web Links	|
+|	[Dev Webs](docs/LinkDep.md)		    |	Dep Web Links	|
+|	[Blog Links](docs/LinkBlogs.md)		|	 Blog Links	|
 |	[Mobile Dev](docs/LinkDevMobile.md)		|	 Mobile Dep Links	|
-|	[AI Dev](docs/LinkDevbAI.md)		|	 AI Dep Links	|
+|	[AI Dev](docs/LinkDevbAI.md)		      |	 AI Dep Links	|
+
 
 # Others
 
