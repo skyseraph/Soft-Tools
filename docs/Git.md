@@ -138,6 +138,8 @@ git rm --cached .classpath
 
 - [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
 
+- [Git Book](https://git-scm.com/book/zh/v1/)
+
 
 
 
