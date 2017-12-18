@@ -79,8 +79,8 @@ adb forward tcp:5555 tcp:9001 // 把PC端5555端口的数据, 转发到Android�
 - adb shell dumpsys telephony.registry  电话信息  
 - adb shell dumpsys meminfo > meminfo.txt  dump输出
 - adb shell dumpsys window  窗口信息    
-    adb shell dumpsys window w | findstr \/ | findstr name=    查找component
-    w[indows]: window list
+    adb shell dumpsys window w | findstr \/ | findstr name=    查找component     
+    w[indows]: window list    
 
 > PackageManager
 
