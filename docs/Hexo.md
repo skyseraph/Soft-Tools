@@ -27,3 +27,5 @@
 - [freemind](https://github.com/wzpan/hexo-theme-freemind)
 
 ## Hexo 实用
+
+- [gitment](https://github.com/imsun/gitment) 评论
