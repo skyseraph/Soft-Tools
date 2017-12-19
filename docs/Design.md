@@ -89,7 +89,7 @@
 
 - [GifCam](http://blog.bahraniapps.com/gifcam/) Gif录屏软件(功能强大，录制完后还可以对Gif进行编辑，保存的文件占用空间大)
 
-> 切图
+## 前端妹
 
 - [Cutterman](http://www.cutterman.cn/zh)
 - [puzzler](https://github.com/superRaytin/puzzler)  一个高效快速的前端页面切图工具
