@@ -45,6 +45,7 @@ Android Tools
 - 快速Import： Setting -> Editor -> General -> Auto Import
 - 显示行号： Settings –> Editor –> Appearance -> 勾选 Show line numbers
 - Ctrl+Mouse 字体缩放： Settings –> Editor –> General -> 勾选 Change font size with ** 
+- Properties unicode转码: Setting > File Encoding > 勾选 Transparent native-to-ascii convesion   
 
 ### 实用工具
 
