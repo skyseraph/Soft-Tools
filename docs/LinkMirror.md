@@ -1,52 +1,88 @@
 
 # Mirror
 
-[东北大学](http://mirror.neu.edu.cn/)
-[电子科技大学](http://ubuntu.dormforce.net/) [2](http://ubuntu.uestc.edu.cn/)
-[北京理工大学](http://mirror.bit.edu.cn/web/)
-[中国科学技术大学](http://mirrors.ustc.edu.cn/)
-[网易开源镜像](http://mirrors.163.com/)
-[搜狐开源镜像](http://mirrors.sohu.com/)
-[上海交通大学](http://ftp.sjtu.edu.cn/)
-[天津大学开源软件镜像站](http://mirror.tju.edu.cn/)
-[清华大学开源镜像站](http://mirrors.tuna.tsinghua.edu.cn/) [2](http://mirrors.4.tuna.tsinghua.edu.cn/)
-[西南大学开源镜像](http://linux.swu.edu.cn/swudownload/Distributions/)
-[厦门大学信息与网络服务开源镜像](http://linux.swu.edu.cn/swudownload/Distributions/)
-[兰大开源社区镜像站](http://mirror.lzu.edu.cn/)
+[东北大学](http://mirror.neu.edu.cn/)    
+[电子科技大学](http://ubuntu.dormforce.net/) [2](http://ubuntu.uestc.edu.cn/)    
+[北京理工大学](http://mirror.bit.edu.cn/web/)    
+[中国科学技术大学](http://mirrors.ustc.edu.cn/)    
+[网易开源镜像](http://mirrors.163.com/)    
+[搜狐开源镜像](http://mirrors.sohu.com/)    
+[上海交通大学](http://ftp.sjtu.edu.cn/)    
+[天津大学开源软件镜像站](http://mirror.tju.edu.cn/)    
+[清华大学开源镜像站](http://mirrors.tuna.tsinghua.edu.cn/) [2](http://mirrors.4.tuna.tsinghua.edu.cn/)    
+[西南大学开源镜像](http://linux.swu.edu.cn/swudownload/Distributions/)    
+[厦门大学信息与网络服务开源镜像](http://linux.swu.edu.cn/swudownload/Distributions/)    
+[兰大开源社区镜像站](http://mirror.lzu.edu.cn/)    
 [北京交通大学](http://debian.bjtu.edu.cn/cn/)[2](http://mirror.bjtu.edu.cn/cn/)
+
 [中山大学](http://mirror.sysu.edu.cn/)
+
 [阿里](http://mirrors.aliyun.com/)
+
 [台湾debian源](http://ftp.tw.debian.org/)
+
 [台湾高品质学术研究网络](http://ftp.twaren.net/)
+
 [debian官方源](http://ftp.debian.org/)
+
 [ubuntu-iso](http://cdimage.ubuntu.com/)
+
 [开源中国镜像站(http)](http://mirrors.oschina.net/)
-[开源中国镜像站(ftp)](ftp://mirrors.oschina.net/)
+
+开源中国镜像站(ftp) ftp://mirrors.oschina.net/     
+
 [centos镜像](http://mirrors.btte.net/) [2](http://mirror.vpshosting.com.hk/) [3](http://centos.01link.hk/) [4](http://centos.communilink.net/) [5](http://centos.uhost.hk/) [6](http://ftp.cuhk.edu.hk/)
+
 [公云](http://mirrors.pubyun.com/)
+
 [首都在线](http://mirrors.yun-idc.com/)
+
 [华为云镜像](https://mirrors.huaweicloud.com/)
+
 [中国地质大学开源镜像](http://mirrors.cug.edu.cn/)
+
 [东软信息学院开源镜像](http://mirrors.neusoft.edu.cn/)
+
 [大连理工大学](http://mirror.dlut.edu.cn/)
+
 [哈尔滨工业大学](http://run.hit.edu.cn/html/)
+
 [华中科技大学开源镜像站](http://mirrors.hust.edu.cn/)
+
 [浙江大学](http://mirrors.zju.edu.cn/)
+
 [linux运维派开源镜像](http://mirrors.skyshe.cn/)
+
 [debian全球镜像站点](https://www.debian.org/mirror/list)
+
 [raspberry镜像站点](http://www.raspbian.org/RaspbianMirrors)
+
 [VPSer 镜像站点](http://soft.vpser.net/)
+
 [centos epel 源 (找对应版本的epel-release-xxx.noarch.rpm )](http://dl.fedoraproject.org/pub/epel/)
+
 [centos epel 源 (找对应版本的remi-release-xxx.rpm)](http://rpms.famillecollet.com/enterprise/)
+
 [树莓派官方源](http://mirrordirector.raspbian.org/)
+
 [树莓派](http://www.raspbian.org/RaspbianMirrors)
+
 [gogent mirror](http://mirror.cogentco.com/)
+
 [linuxstudenti](http://linux.studenti.fastbull.org/linuxstudenti/)
+
 [veket](http://www.lucky8k.com/forum.php)
+
 [最美的linux-elementary](https://www.elementary.io/zh_CN/)
+
 [CecOS 中文企业云操作系统 ](http://www.openfans.org/)
+
 [淘宝npm源 ](https://npm.taobao.org/)
+
 [remi 源 ](http://rpms.remirepo.net/)
+
 [nux(升级python用)](http://li.nux.ro/)
+
 [PyPI Mirror Status](https://www.pypi-mirrors.org/)
+
 [android-x86 PC-iso](http://www.android-x86.org/)
