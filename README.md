@@ -57,6 +57,7 @@ One of the most the most practical tools included, welcome to stars.
 
 |				Menu					|		Desc.			|
 |----------------------------------	|--------------		|
+|	[Mirror Webs](docs/LinkMirror.md)	|	Mirrors Links	|
 |	[Dev Webs](docs/LinkDep.md)		    |	Dep Web Links	|
 |	[Blog Links](docs/LinkBlogs.md)		|	 Blog Links	|
 |	[Mobile Dev](docs/LinkDevMobile.md)		|	 Mobile Dep Links	|
