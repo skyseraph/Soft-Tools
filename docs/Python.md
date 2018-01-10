@@ -4,6 +4,7 @@
 - [Anaconda](https://www.continuum.io/) Python 多版本管理工具
 - [virtualenv](https://virtualenv.pypa.io/en/stable/) 虚拟环境虚拟环境
 - [pyenv](https://github.com/pyenv/pyenv) 虚拟环境虚拟环境
+- [awesome-python](https://github.com/skyseraph/awesome-projects/blob/master/doc/tech_all.md)
 
 ## 实用命令
 
