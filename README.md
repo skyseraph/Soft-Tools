@@ -39,7 +39,6 @@ One of the most the most practical tools included, welcome to stars.
 |	[AI](docs/AI_CV.md)				    |	AI 		 	|
 |	[Hexo](docs/Hexo.md)				|   Hexo 		|
 |	[Test](docs/Test.md)			    |	Test Tools		|
-|	[Gradle+Maven](docs/gradle_maven.md)			    |	Gradle/Maven Tools		|
 |	[Reverse](docs/Reverse.md)			|	Security Reverse	  		|
 
 ## Commands
@@ -52,6 +51,7 @@ One of the most the most practical tools included, welcome to stars.
 |	[Vim](docs/Vim.md)				|	Vim	Commands		|
 |	[Regular](docs/Regular.md)		|	Regular           	|
 |	[Python](docs/Python.md)		|	Python	Commands	|
+|	[Gradle+Maven](docs/gradle_maven.md)			    |	Gradle/Maven Tools		|
 
 ## Web Links
 
