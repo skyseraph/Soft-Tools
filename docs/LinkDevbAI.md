@@ -1,4 +1,4 @@
-# Dep Web Links
+# Dep AI Links
 AI Links
 
 # Webs
