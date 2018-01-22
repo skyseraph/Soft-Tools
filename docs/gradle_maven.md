@@ -2,11 +2,13 @@
 # Gradle
 
 - [gradle](https://gradle.org/)
+- [Configure Your Build in Android](https://developer.android.com/studio/build/index.html)
 
 
 # Maven
 
-- [mvnrepository](https://mvnrepository.com)
+- [mvnrepository](https://mvnrepository.com)  
+- [Nexus](https://www.sonatype.com/download-oss-sonatype) Nexus官网，用于搭建Maven私服
 
 > Dependency Scope 
 
