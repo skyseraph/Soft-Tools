@@ -40,6 +40,7 @@
 
 - [阿里云](https://www.aliyun.com/)
 - [七牛](https://www.qiniu.com/) & [wailian](http://www.wailian.work/)
+- [tinypng](https://tinypng.com) 在线图片压缩
 
 > 代码托管
 
