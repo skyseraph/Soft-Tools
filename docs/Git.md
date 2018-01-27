@@ -124,8 +124,14 @@ $ export LESSCHARSET=utf-8
 
 > gitgore 添加文件不起作用（文件已进仓）
 
-git rm --cached .classpath  
+- 指定文件    
+git rm --cached .classpath    
+git commit -m "update .gitgore"    
 
+- 所有文件    
+git rm --cached .    
+git add .    
+git commit -m "update .gitgore"    
 
 
 ## 实用参考  
