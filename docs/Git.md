@@ -122,16 +122,16 @@ $ git config --global i18n.logoutputencoding utf-8	# 输出 log 编码
 $ export LESSCHARSET=utf-8   
 最后一条命令是因为 git log 默认使用 less 分页，所以需要 bash 对 less 命令进行 utf-8 编码  
 
-> gitgore 添加文件不起作用（文件已进仓）
+> gitgore 添加文件不起作用（文件已进仓,track）
 
 - 指定文件    
 git rm --cached .classpath    
 git commit -m "update .gitgore"    
 
-- 所有文件    
-git rm --cached .    
-git add .    
-git commit -m "update .gitgore"    
+- 所有文件      
+git rm --cached .     
+git add .         
+git commit -m "update .gitgore"     
 
 
 ## 实用参考  
