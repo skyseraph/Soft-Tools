@@ -31,7 +31,6 @@
 - [Next](http://next.36kr.com/posts)
 - [IT桔子](https://www.itjuzi.com/)
 
-
 ## 实用查询
 
 ### 实用工具
@@ -83,6 +82,9 @@
 - [看雪](http://www.pediy.com/)
 - [ohloh](https://www.ohloh.net/)
 - [openhub](https://www.openhub.net/)
+
+### 创业必备
+- [collabfinder](http://collabfinder.com)
 
 ## 专题
 
