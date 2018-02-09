@@ -47,6 +47,33 @@ Android Tools
 - Ctrl+Mouse 字体缩放： Settings –> Editor –> General -> 勾选 Change font size with ** 
 - Properties unicode转码: Setting > File Encoding > 勾选 Transparent native-to-ascii convesion   
 
+> 实用技巧 
+
+- for循环代码快速生成技巧
+
+| 使用           		   | 说明     							|
+| -----------------------  | ------------	  					|
+| 对象.for		     	   | 迭代循环遍历 						|
+| 对象.fori		     	   | 正向for循环(int) 					|
+| 对象.forr		     	   | 反向for循环						|
+| 数字.for		     	   | 生成int型size为"数字值"的for循环 	|
+
+- 判空代码快速生成技巧  
+
+| 使用           		   | 说明     							|
+| -----------------------  | ------------	  					|
+| 对象.null		     	   | 判空代码快速生成 					|
+| 对象.notnull			   | 判非空代码快速生成 				|
+| 对象.nn		     	   | 判非空代码快速生成					|
+
+- if代码快速生成技巧  
+
+| 使用           		   | 说明     							|
+| -----------------------  | ------------	  					|
+| 语句.if		     	   | if代码快速生成 					|
+| 对象.instance			   | instance代码快速生成 				|
+
+
 ### 实用工具
 
 - [Genymotion](https://plugins.jetbrains.com/plugin/7269-genymotion) 老牌模拟器，快！
