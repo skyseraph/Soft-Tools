@@ -1,5 +1,6 @@
 # 安全逆向
 Reverse Tools
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 ## Java & Jar (Android)
 
