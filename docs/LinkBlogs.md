@@ -63,7 +63,6 @@
 	- [Blog](http://www.cnblogs.com/rubylouvre/)
 	- [Github](https://github.com/RubyLouvre)
 	- [知乎](https://www.zhihu.com/people/si-tu-zheng-mei)
-	- [微博](http://weibo.com/jslouvre)
 
 - 汤姆大叔(徐涛)
 	- [cnblogs](https://www.cnblogs.com/TomXu/)
@@ -90,6 +89,8 @@
 - zcbenzi
 	- [Blog](http://cheng.guru)
 	- [Github](https://github.com/zcbenz)
+- justjavac
+	- [Github](https://github.com/justjavac)
 
 - 情封
 	- [Github](https://github.com/f2er)
@@ -99,4 +100,9 @@
 	
 - 芋头: 大搜车
 	- [Github](https://github.com/xinyu198736)
+
+
+# More
+
+- [那些年，从博客到出书的博主](http://skyseraph.com/2017/05/27/SkySeraph/Sharing/那些年，从博客到出书的博主/)
 
