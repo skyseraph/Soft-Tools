@@ -9,6 +9,31 @@
 
 ## Mobile（Android）
 
+ - 代码家 
+ 	- [Blog](https://daimajia.com)
+ 	- [Github](https://github.com/daimajia)
+ - 胡凯
+ 	- [Blog](https://github.com/kesenhoo)
+ 	- [Github](http://hukai.me)
+ - Trinea 
+ 	- [Blog](http://www.trinea.cn)
+ 	- [Github](https://github.com/Trinea)
+ - 廖祜秋 
+ 	- [Blog](https://www.liaohuqiu.net)
+ 	- [Github](https://github.com/liaohuqiu)
+ - stormzhang  
+ 	- [Blog](http://stormzhang.com/)
+ 	- [Github](https://github.com/stormzhang)
+ - 任玉刚 
+ 	- [Blog](http://www.devtf.cn)
+ 	- [Github](https://github.com/hehonghui)
+ - 邓凡平
+ 	- [Blog](http://blog.csdn.net/innost)
+ 	- [Github]()
+......
+
+- [Some Chinese Android Developers Information](https://github.com/android-cn/android-dev-cn)
+
 ## Mobile（iOS）
 
 > China
