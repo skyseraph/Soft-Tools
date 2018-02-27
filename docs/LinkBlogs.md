@@ -31,10 +31,10 @@ ToDo...
  	- [Github](https://github.com/hehonghui)
  - 邓凡平
  	- [Blog](http://blog.csdn.net/innost)
- 	- [Github]()
  - SkySeraph
  	- [Blog](http://skyseraph.com)
  	- [Github](https://github.com/skyseraph)
+	
 ......
 More  here~
 
@@ -70,7 +70,6 @@ More  here~
  	- [Github](https://github.com/yulingtianxia)
  - Peak:  facebook 
  	- [Blog](http://mrpeak.cn)
- 	- [Github]()
  - bestswifter(张星宇): 百度
  	- [Blog](https://juejin.im/user/57638ad8207703006b06e3ef/posts)
  	- [Github](https://github.com/bestswifter)
