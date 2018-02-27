@@ -58,7 +58,8 @@
 > 其它
 
 - [ProcessOn](https://www.processon.com/)  在线作图
-- [Disqus](https://disqus.com/)  评论
+- [Disqus](https://disqus.com/)  [laibili](http://www.laibili.com.cn)  评论
+- [Trello](https://trello.com) 网络协作管理平台
 
 ### 实用查询
 
