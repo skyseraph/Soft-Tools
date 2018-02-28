@@ -7,33 +7,29 @@
 
 # Project
 
-## AI/CV
+## Android
 
-ToDo...
-
-## Mobile（Android）
-
- - 代码家 
+- 代码家 
  	- [Blog](https://daimajia.com)
  	- [Github](https://github.com/daimajia)
- - 胡凯
+- 胡凯
  	- [Blog](https://github.com/kesenhoo)
  	- [Github](http://hukai.me)
- - Trinea 
+- Trinea 
  	- [Blog](http://www.trinea.cn)
  	- [Github](https://github.com/Trinea)
- - 廖祜秋 
+- 廖祜秋 
  	- [Blog](https://www.liaohuqiu.net)
  	- [Github](https://github.com/liaohuqiu)
- - stormzhang  
+- stormzhang  
  	- [Blog](http://stormzhang.com/)
  	- [Github](https://github.com/stormzhang)
- - 任玉刚 
+- 任玉刚 
  	- [Blog](http://www.devtf.cn)
  	- [Github](https://github.com/hehonghui)
- - 邓凡平
+- 邓凡平
  	- [Blog](http://blog.csdn.net/innost)
- - SkySeraph
+- SkySeraph
  	- [Blog](http://skyseraph.com)
  	- [Github](https://github.com/skyseraph)
 	
@@ -42,7 +38,7 @@ More  here~
 
 - [Some Chinese Android Developers Information](https://github.com/android-cn/android-dev-cn)
 
-## Mobile（iOS）
+## iOS
 
 > China
 
@@ -175,6 +171,10 @@ More  here~
 	- [Github](https://github.com/kejun)	
 - 芋头: 大搜车
 	- [Github](https://github.com/xinyu198736)
+
+## AI/CV
+
+ToDo...
 
 ## Server    
 Todo    
