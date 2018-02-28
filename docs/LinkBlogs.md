@@ -5,6 +5,12 @@
 - [王垠](http://www.yinwang.org/) 
 - [陈皓](https://coolshell.cn)
 
+# Project
+
+## Full XX
+
+- [黄峰达](https://www.phodal.com/blog/) ThoughtWorks
+
 ## AI/CV
 
 ToDo...
@@ -44,35 +50,66 @@ More  here~
 
 > China
 
-- onevcat(喵神/王巍):  日本LINE
- 	- [Blog](https://onevcat.com)
+- OneV's Den(喵神/王巍):  日本LINE
+	- [Blog](https://onevcat.com)
  	- [Github](https://github.com/onevcat)
- - limboy(李忠):  蘑菇街
+ 	- [Swifter](http://swifter.tips)
+- 唐巧: 猿辅导 
+ 	- [Blog](http://blog.devtang.com/)
+ 	- [《iOS 开发进阶》 ](http://item.jd.com/11598468.html)
+- limboy(李忠):  蘑菇街
  	- [Blog](http://limboy.me)
  	- [Github](https://github.com/lzyy)
- - Casa Taloyum(Tian Wei Yu)
+- Casa Taloyum(Tian Wei Yu)
  	- [Blog](https://casatwy.com)
  	- [Github](https://github.com/casatwy)
- - Bang
+- Bang
  	- [Blog](http://blog.cnbang.net)
- - Garan no dou
+- Garan no dou
  	- [Blog](https://blog.ibireme.com)
  	- [Github](https://github.com/ibireme/)
- - Draveness 
+- Draveness 
  	- [Blog](https://draveness.me/index)
- - Halfrost-Field
+- Halfrost-Field
  	- [Blog](https://halfrost.com)
- - 星光社(戴铭):  滴滴技术专家
+- 星光社(戴铭):  滴滴技术专家
  	- [Blog](https://ming1016.github.io)
  	- [Github](https://github.com/ming1016)
  - 玉令天下(杨萧玉): 腾讯
  	- [Blog](http://yulingtianxia.com)
  	- [Github](https://github.com/yulingtianxia)
- - Peak:  facebook 
+- Peak:  facebook 
  	- [Blog](http://mrpeak.cn)
- - bestswifter(张星宇): 百度
+- bestswifter(张星宇): 百度
  	- [Blog](https://juejin.im/user/57638ad8207703006b06e3ef/posts)
  	- [Github](https://github.com/bestswifter)
+- txx's
+ 	- [Blog](http://blog.txx.im)
+- 吴发伟: 天猫
+ 	- [iOS技术周报](http://weekly.ios-wiki.com/history)
+- Kevin(周楷雯): 秒视创始人
+ 	- [Blog](http://zhowkev.in)
+- IMTX(图拉鼎): 
+ 	- [Blog](https://imtx.me)
+
+> Overseas
+
+- objc.io
+ 	- [Blog](https://www.objc.io)
+- Ray Wenderlich 
+ 	- [Blog](https://www.raywenderlich.com)
+- iOS Dev Weekly
+ 	- [Blog](http://iosdevelopertips.com)
+- iOS Developer Tips 
+ 	- [Blog](http://iosdevweekly.com)
+- NSHipster
+ 	- [Blog](http://nshipster.com)
+- Bartosz Ciechanowski 
+ 	- [Blog](http://ciechanowski.me)
+- Big Nerd Ranch Blog 
+ 	- [Blog](https://www.bignerdranch.com/blog/)
+- Nils Hayat
+ 	- [Blog](http://nilsou.com)
 
 ## Front-End
 
