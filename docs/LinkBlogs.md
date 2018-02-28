@@ -33,11 +33,6 @@
  	- [Blog](http://skyseraph.com)
  	- [Github](https://github.com/skyseraph)
 	
-......    
-More  here~
-
-- [Some Chinese Android Developers Information](https://github.com/android-cn/android-dev-cn)
-
 ## iOS
 
 > China
@@ -85,10 +80,6 @@ More  here~
  	- [Blog](https://imtx.me)
 - 刘坤: 阿里 
 	- [Blog](https://blog.cnbluebox.com)
-
-......    
-More  here~
-- [中文iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
 
 > Overseas
 
@@ -203,3 +194,5 @@ Todo
 
 - [那些年，从博客到出书的博主](http://skyseraph.com/2017/05/27/SkySeraph/Sharing/那些年，从博客到出书的博主/)
 - [awesome-projects](https://github.com/skyseraph/awesome-projects)
+- [Some Chinese Android Developers Information](https://github.com/android-cn/android-dev-cn)
+- [中文iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
