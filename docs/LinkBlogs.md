@@ -5,7 +5,7 @@
 - [王垠](http://www.yinwang.org/) 
 - [陈皓](https://coolshell.cn)
 
-# Project
+# Tech
 
 ## Android
 
@@ -33,7 +33,7 @@
  	- [Blog](http://skyseraph.com)
  	- [Github](https://github.com/skyseraph)
 	
-......
+......    
 More  here~
 
 - [Some Chinese Android Developers Information](https://github.com/android-cn/android-dev-cn)
@@ -67,7 +67,7 @@ More  here~
 - 星光社(戴铭):  滴滴技术专家
  	- [Blog](https://ming1016.github.io)
  	- [Github](https://github.com/ming1016)
- - 玉令天下(杨萧玉): 腾讯
+- 玉令天下(杨萧玉): 腾讯
  	- [Blog](http://yulingtianxia.com)
  	- [Github](https://github.com/yulingtianxia)
 - Peak:  facebook 
@@ -83,6 +83,12 @@ More  here~
  	- [Blog](http://zhowkev.in)
 - IMTX(图拉鼎): 
  	- [Blog](https://imtx.me)
+- 刘坤: 阿里 
+	- [Blog](https://blog.cnbluebox.com)
+
+......    
+More  here~
+- [中文iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
 
 > Overseas
 
@@ -188,8 +194,12 @@ Todo
 - [黄峰达](https://www.phodal.com/blog/) ThoughtWorks
 
 
+# Non-Tech
+
+- [大卫张](http://blog.51cto.com/davidzhang33)
+- [MacTalk-池建强的随想录](http://macshuo.com)
 
 # More
 
 - [那些年，从博客到出书的博主](http://skyseraph.com/2017/05/27/SkySeraph/Sharing/那些年，从博客到出书的博主/)
-
+- [awesome-projects](https://github.com/skyseraph/awesome-projects)
