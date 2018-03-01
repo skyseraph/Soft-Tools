@@ -168,6 +168,8 @@
 	- [Github](https://github.com/kejun)	
 - 芋头: 大搜车
 	- [Github](https://github.com/xinyu198736)
+- [黄峰达](https://www.phodal.com/blog/) ThoughtWorks
+
 
 ## AI/CV
 
@@ -182,7 +184,7 @@ Todo
 
 ## Full XX
 
-- [黄峰达](https://www.phodal.com/blog/) ThoughtWorks
+
 
 
 # Non-Tech
