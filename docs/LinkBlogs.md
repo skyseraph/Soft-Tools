@@ -33,6 +33,10 @@
  	- [Blog](http://skyseraph.com)
  	- [Github](https://github.com/skyseraph)
 	
+> More
+
+- [Some Chinese Android Developers Information](https://github.com/android-cn/android-dev-cn)
+
 ## iOS
 
 > China
@@ -99,6 +103,10 @@
  	- [Blog](https://www.bignerdranch.com/blog/)
 - Nils Hayat
  	- [Blog](http://nilsou.com)
+
+> More
+
+- [中文iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
 
 ## Front-End
 
