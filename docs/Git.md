@@ -35,7 +35,7 @@ git log --oneline | wc -l
 
 > 工具
 
-- [git-fame-rb](https://github.com/oleander/git-fame-rb)
+- [git-fame-rb](https://github.com/oleander/git-fame-rb)  
 
 
 ## 常用Git命令
