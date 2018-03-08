@@ -33,6 +33,7 @@ Windows Tools
 - [Clover](http://ejie.me/) & [TotalCommander](http://www.ghisler.com/)  & [Q-Dir](http://www.softwareok.com/?Download=Q-Dir) & [QTTabBar](http://qttabbar.sourceforge.net/) 
 - [picpick](http://ngwin.com/picpick)
 - [Launchy](https://www.launchy.net/)  快速启动工具(Windows/Linux)  (Alt+Space 启动快速搜索)
+- [Dual Monitor Taskbar](https://dual-monitor-taskbar.en.softonic.com)  Windows 双显示器任务栏设置
 
 ## 办公相关
  
