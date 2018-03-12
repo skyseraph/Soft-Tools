@@ -29,6 +29,11 @@ Test Tools
 
 - [Macaca](https://macacajs.com/) （阿里）
 
+## GameTest
+
+- [sikuli](http://www.sikuli.org)
+- [GAutomator](https://github.com/Tencent/GAutomator)
+
 
 ## 实用参考  
 
