@@ -164,17 +164,17 @@ git add .
 git commit -m "update .gitgore"     
 
 
-## 实用参考  
+## 实用链接  
 
 - [git-recipes](https://github.com/geeeeeeeeek/git-recipes/wiki)  Good!
-
 - [《Git权威指南》]()
-
 - [《Git Community Book 中文版》](http://gitbook.liuhui998.com/index.html)
-
 - [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
-
 - [Git Book](https://git-scm.com/book/zh/v1/)
+- [gradle 最近更新说明](https://docs.gradle.org/current/release-notes.html)
+- [gradle 归档地址](https://services.gradle.org/distributions/)
+- [Gradle User Guide 中文版](https://dongchuan.gitbooks.io/gradle-user-guide-/)
+- [gradle DSL](https://docs.gradle.org/current/dsl/)
 
 
 
