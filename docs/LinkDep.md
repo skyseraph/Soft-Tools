@@ -1,10 +1,11 @@
 # Dep Links
-开发实用网站
+开发/产品/创业 实用网站
 
 ## 聚合
 
 - [wulihub](http://daohangwan.com) 互联网从业者的导航网站
 - [seeseed](https://www.seeseed.com/) 设计导航网站
+- [创造狮导航](http://www.chuangzaoshi.com)
 
 > 技术头条
 
@@ -28,8 +29,12 @@
 
 - [Hacker News](https://news.ycombinator.com/)
 - [producthunt](https://www.producthunt.com/)
+- [Indie Hackers](https://www.indiehackers.com)
 - [Next](http://next.36kr.com/posts)
 - [IT桔子](https://www.itjuzi.com/)
+- [湾区日报](http://wanqu.co)
+- [湾区论坛](https://wanqu.io)
+- [sideidea](http://sideidea.com)
 
 ## 实用查询
 
@@ -87,6 +92,7 @@
 - [onepagelove](https://onepagelove.com/templates/free-templates) 单页网站设计
 
 ### 创业必备
+
 - [collabfinder](http://collabfinder.com)
 
 ## 专题
