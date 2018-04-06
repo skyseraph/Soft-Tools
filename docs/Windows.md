@@ -24,16 +24,23 @@ Windows Tools
 - [eyefoo](http://eyefoo.com/) 护眼工具
 - [CCleaner](https://www.piriform.com/ccleaner) 系统清理软件
 - [Dism++](https://www.chuyu.me/zh-Hans/index.html) 
+- [Rufus](https://rufus.akeo.ie/) 小巧的U盘刻录工具
+- [DiskGenius](http://www.diskgenius.net/) 磁盘分区工具
 
 > 实用工具
 
 - [Everything](http://www.voidtools.com/) 全盘文件搜索工具  
+- [Listary](http://www.listary.com/) 文件搜索增强工具，类似 Everything 
 - [FileLocator Pro](https://www.mythicsoft.com/filelocatorpro/) 文档全文内容搜索神器
 - [TeamViewer](https://www.teamviewer.com/zhCN/) 远程操作电脑工具
 - [Clover](http://ejie.me/) & [TotalCommander](http://www.ghisler.com/)  & [Q-Dir](http://www.softwareok.com/?Download=Q-Dir) & [QTTabBar](http://qttabbar.sourceforge.net/) 
 - [picpick](http://ngwin.com/picpick)
 - [Launchy](https://www.launchy.net/)  快速启动工具(Windows/Linux)  (Alt+Space 启动快速搜索)
 - [Dual Monitor Taskbar](https://dual-monitor-taskbar.en.softonic.com)  Windows 双显示器任务栏设置
+- [7-Zip](https://www.7-zip.org/) 压缩软件
+- [PotPlayer](https://potplayer.daum.net/) 本地视频播放器
+- [QTTabBar](http://qttabbar.sourceforge.net/) 文件资源管理器的标签插件，类似 Clover 但更强大
+- [PanDownload](https://pandownload.com/faq/about.html) 第三方百度云盘客户端，可提取直链绕过限速
 
 ## 办公相关
  
