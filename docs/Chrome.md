@@ -36,6 +36,12 @@ Chrome Tools
 
 - [Chrome Remote Desktop](https://support.google.com/chrome/answer/1649523?hl=en) 
 
+- [Vimium](https://github.com/philc/vimium) 在 Chrome 里使用 vim 快捷键，神速操作
+
+- [One key Manager](https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E7%AE%A1%E7%90%86/kfjmkgngkgpgjdoealkmmajmmhpnffoj) 用来管理 chrome 扩展的扩展
+
+- [JetBrains IDE Support](https://chrome.google.com/webstore/detail/jetbrains-ide-support/hmhgeddbohgjknpmjagkdomcpobmllji) JetBrains IDE 写前端实时预览插件
+
 > IT民工
 
 - [Gliffy Diagrams](https://www.gliffy.com/)  在线绘图工具
