@@ -41,6 +41,9 @@ Windows Tools
 - [PotPlayer](https://potplayer.daum.net/) 本地视频播放器
 - [QTTabBar](http://qttabbar.sourceforge.net/) 文件资源管理器的标签插件，类似 Clover 但更强大
 - [PanDownload](https://pandownload.com/faq/about.html) 第三方百度云盘客户端，可提取直链绕过限速
+- [ManicTime](https://www.manictime.com) 时间管理软件，自动记录你的电脑操作
+- [Ditto](https://ditto-cp.sourceforge.io)  款强大的Windows剪贴板增强工具
+- [snipaste](https://zh.snipaste.com)  强大的截图工具
 
 ## 办公相关
  
