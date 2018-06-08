@@ -59,7 +59,11 @@ Windows Tools
 
 - Sublime Text 插件：  [Package Control](https://packagecontrol.io/installation)
 
-> 教师工具
+> 学术辅助
+
+- [TeX Live](https://liam0205.me/texlive/)   TUG (TeX User Group) 维护和发布的 TeX 系统， [官方]( https://tug.org/texlive/)
+
+> 教师辅助
 
 - [GeoGebra](https://www.geogebra.org/?lang=zh_CN) 
 - [AxMath](http://www.amyxun.com/) 数学公式编辑器
