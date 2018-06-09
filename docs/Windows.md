@@ -79,6 +79,7 @@ Windows Tools
 - [Cygwin](http://www.cygwin.com/)
 - [Windows Sysinternals](https://technet.microsoft.com/en-us/sysinternals/bb842062.aspx)
 - [apache-maven](http://maven.apache.org/download.cgi)
+- [keystore](http://keystore-explorer.org/downloads.html) 证书导入管理
 
 > **IDE篇**
 
