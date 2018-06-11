@@ -61,7 +61,7 @@ Windows Tools
 
 > 学术辅助
 
-- [TeX Live](https://liam0205.me/texlive/)   TUG (TeX User Group) 维护和发布的 TeX 系统， [官方]( https://tug.org/texlive/), [templates](https://www.overleaf.com/latex/templates/)
+- [TeX Live](https://liam0205.me/texlive/)   TUG (TeX User Group) 维护和发布的 TeX 系统， [官方]( https://tug.org/texlive/), [templates](https://www.overleaf.com/latex/templates/)  [miscellaneous templates](http://www.latextemplates.com/cat/miscellaneous)
 - [texstudio](https://www.texstudio.org) TeX IDE
 
 > 教师辅助
