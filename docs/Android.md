@@ -129,6 +129,9 @@ Android Tools
 
 - [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) 开源SQLite 辅助工具
 
+- [Alibaba Java Coding Guidelines pmd implements and IDE plugin ](https://github.com/alibaba/p3c)
+
+
 > Refs  
 
 - [awesome-androidstudio-plugins](https://github.com/jiang111/awesome-androidstudio-plugins)
