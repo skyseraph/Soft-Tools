@@ -79,6 +79,19 @@
 - [百度专利](http://zhuanli.baidu.com/)
 - [专利之星](http://searchtel.patentstar.com.cn)
 
+> 招聘专栏
+
+- [猎聘网](https://www.liepin.com)
+- [拉勾网](https://www.lagou.com)
+- [内推网](http://www.neitui.me)
+- [100offer](https://cn.100offer.com)
+- [大街网](https://www.dajie.com)
+- [数字英才网](http://01hr.com)
+- [智联招聘](https://www.zhaopin.com)
+- [前程无忧](https://www.51job.com)
+- [北极星电力招聘](http://hr.bjx.com.cn)
+- [职友集](https://www.jobui.com)
+
 ### 码农必备
 
 - [Google developers](https://developers.google.cn/)
