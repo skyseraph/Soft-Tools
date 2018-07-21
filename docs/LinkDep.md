@@ -94,10 +94,13 @@
 
 ### 码农必备
 
+- [Github](https://github.com/)
+- [Stackoverflow](http://stackoverflow.com/)
 - [Google developers](https://developers.google.cn/)
 - [Goole codelabs](https://codelabs.developers.google.com)
-- [stackoverflow](http://stackoverflow.com/)
 - [wiki](https://en.wikipedia.org/wiki/Main_Page)
+- [reddit](https://www.reddit.com/r/programming/) 欧美在线社区
+- [infoq](https://www.infoq.com/)
 - [看雪](http://www.pediy.com/)
 - [ohloh](https://www.ohloh.net/)
 - [openhub](https://www.openhub.net/)
