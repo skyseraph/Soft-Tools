@@ -95,20 +95,9 @@ Windows Tools
 - [Android Studio](https://developer.android.com/studio/index.html) & Android SDK & [Android NDK](https://developer.android.com/ndk/index.html) & Gradle   
  [androiddevtools](http://www.androiddevtools.cn/)
 
-- Python IDE
- - [PyCharm](https://www.jetbrains.com/pycharm/)
- - [Spyder](https://pythonhosted.org/spyder/)
- - [Eclipse+PyDev](http://www.pydev.org)
- - [IDLE](https://docs.python.org/3/library/idle.html)
- - [Atom](https://atom.io)
- - [Jupyter Notebook](http://jupyter.org)
+- Python IDE: [PyCharm](https://www.jetbrains.com/pycharm/),[Spyder](https://pythonhosted.org/spyder/),[Eclipse+PyDev](http://www.pydev.org),[IDLE](https://docs.python.org/3/library/idle.html),[Atom](https://atom.io),[Jupyter Notebook](http://jupyter.org)
 
-- JavaScript IDE
- - [WebStorm](https://www.jetbrains.com/webstorm/)
- - [Komodo Edit](https://www.activestate.com/komodo-edit)
- - [Visual Studio Code](https://code.visualstudio.com)
- - [Atom IDE](https://ide.atom.io)
- - [Brackets](http://brackets.io)
+- JavaScript IDE:  [WebStorm](https://www.jetbrains.com/webstorm/),[Komodo Edit](https://www.activestate.com/komodo-edit),[Visual Studio Code](https://code.visualstudio.com),[Atom IDE](https://ide.atom.io), [Brackets](http://brackets.io)
 
 
 > **[游戏专题](https://github.com/skyseraph/Soft-Tools/blob/master/docs/Game.md)**
