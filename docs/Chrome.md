@@ -42,6 +42,8 @@ Chrome Tools
 
 - [JetBrains IDE Support](https://chrome.google.com/webstore/detail/jetbrains-ide-support/hmhgeddbohgjknpmjagkdomcpobmllji) JetBrains IDE 写前端实时预览插件
 
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) 标签页收集到一个标签里是否内存
+
 > IT民工
 
 - [Gliffy Diagrams](https://www.gliffy.com/)  在线绘图工具
