@@ -26,5 +26,14 @@
 
 - [firebase](https://firebase.google.com/)
 - [听云](http://www.tingyun.com/) 
-- [TestIn](http://www.testin.cn/) 云测
 - [蒲公英](https://www.pgyer.com/) 内测/众测
+- [DevStore](http://www.devstore.cn/)
+- [firebase](https://firebase.google.com/)
+- [TestIn](http://www.testin.cn/) 云测
+- [TestBird](https://www.testbird.com/)
+- [腾讯WeTest](https://wetest.qq.com/)
+- [阿里MQC](https://mqc.aliyun.com/)
+- [百度MTC](http://mtc.baidu.com/)
+- [网易易测](http://et.163yun.com/)
+- [贯众云测](http://cloudtest.komect.com/)
+- [华为DevEco](https://deveco.huawei.com/)
