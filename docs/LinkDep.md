@@ -37,6 +37,13 @@
 - [湾区论坛](https://wanqu.io)
 - [sideidea](http://sideidea.com)
 
+> 知识付费
+
+- [极客时间](https://time.geekbang.org/)
+- [GitChat](https://gitbook.cn/)
+- [掘金小册](https://juejin.im/books)
+
+
 ## 实用查询
 
 ### 实用工具
