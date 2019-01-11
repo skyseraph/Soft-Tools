@@ -17,6 +17,7 @@ Windows Tools
 - [有道云笔记](http://note.youdao.com/)
 - [OneNote](http://www.onenote.com/)
 - [EverNote](https://evernote.com/)
+- [marginnote](https://www.marginnote.com/)  (Mac)
 
 > 系统相关
 
