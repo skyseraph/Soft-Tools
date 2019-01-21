@@ -38,6 +38,9 @@ Android Tools
 |	<kbd>Ctrl+Shift+Plus/Minus</kbd>    |	<kbd>Cmd+Shift+Plus/Minus</kbd>   |   展开/折叠全部代码块		  |
 |	<kbd>Ctrl+Tab</kbd>    |	<kbd>Cmd + Tab</kbd>   |   窗口切换（关闭某个窗口，在上面按BackSpace即可）		  |
 
+exp：    
+- 快捷键不起作用，可能是与搜狗输入法冲突，关闭搜狗所有快捷键
+
 ### 实用设置
 
 - 黑色主题：  Settings –> Appearance –> Theme -> Darcula 
