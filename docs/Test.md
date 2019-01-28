@@ -34,6 +34,14 @@ Test Tools
 - [sikuli](http://www.sikuli.org)
 - [GAutomator](https://github.com/Tencent/GAutomator)
 
+## 测试工具
+
+> Socket测试工具
+
+- [SocketTest](http://sockettest.sourceforge.net/) Java Socket测试工具
+- [sokit](https://sokit.soft32.com/) TCP/UDP 测试（调试）工具 
+- [Hercules SETUP utility](https://www.hw-group.com/software/hercules-setup-utility)
+
 
 ## 实用参考  
 
