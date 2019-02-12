@@ -6,7 +6,7 @@ Windows Tools
 > 科学上网
  
 - [shadowsocks](https://github.com/shadowsocks) [Shadowsocks googlePlay](https://play.google.com/store/search?q=Shadowsocks)
-- [starvpn][http://starvpnapp.com/]
+- [starvpn](http://starvpnapp.com/)
 - [XX-Net](https://github.com/XX-net/XX-Net) 
 - [lantern](https://www.getlantern.org/)  
 - [host](https://laod.cn/hosts)
