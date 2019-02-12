@@ -10,6 +10,11 @@ Windows Tools
 - [lantern](https://www.getlantern.org/)  
 - [host](https://laod.cn/hosts)
 - [cntlm](http://cntlm.sourceforge.net) 代理上网工具
+- [GreenVPN][https://github.com/newbreedlimited/greenvpn] [googlePlay](https://play.google.com/store/search?q=greenvpn)
+- [极光 googlePlay](https://play.google.com/store/search?q=%E6%9E%81%E5%85%89)
+- [Shadowsocks googlePlay](https://play.google.com/store/search?q=Shadowsocks)
+- [starvpn][http://starvpnapp.com/]
+
 
 > 笔记类工具
 
