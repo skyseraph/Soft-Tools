@@ -36,6 +36,7 @@
 - [湾区日报](http://wanqu.co)
 - [湾区论坛](https://wanqu.io)
 - [sideidea](http://sideidea.com)
+- [码力全开](http://maliquankai.com/)
 
 > 知识付费
 
