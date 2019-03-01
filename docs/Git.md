@@ -79,6 +79,12 @@ git config --global --unset https.proxy
 
 git config --global http.sslverify false
 
+
+- 特定链接不代理设置（路径 C -> 用户 -> 【我的账号】 -> .gitconfig文件）
+[http "http://127.0.0.1"]    
+  proxy =      
+
+
 > **删除远程分支A**    
 
 - git push origin --delete A    
