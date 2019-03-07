@@ -30,7 +30,7 @@
 
 - [Sketch](https://www.sketchapp.com/) 扁平化UI设计工具（Mac） [Sketch中文网](http://www.sketchcn.com/sketch-chinese-user-manual.html) & [开源插件WeSketch](https://github.com/weixin/WeSketch) 
 
-- [Justinmind](http://www.justinmind.com.cn/)
+- [Justinmind](http://www.justinmind.com.cn/)  高保真原型设计工具
 
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) （Mac） 强大绘图功能
 
@@ -39,6 +39,8 @@
   [projects](https://support.mybalsamiq.com/projects/) ,[uilibrary](https://support.mybalsamiq.com/projects/uilibrary/grid), [Tips, Tricks](https://support.mybalsamiq.com/projects/tips/grid),[Examples](https://support.mybalsamiq.com/projects/examples/grid),[Wireframe Skin](https://support.mybalsamiq.com/projects/examples-wireframeskin/grid)   
   
 - [Mockplus](https://www.mockplus.cn/)
+
+- [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
 
 - [MarkMan/马克鳗](http://www.getmarkman.com/)  高效的设计稿标注、测量工具
 
