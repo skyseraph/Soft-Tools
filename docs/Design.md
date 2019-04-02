@@ -99,6 +99,7 @@
 - [puzzler](https://github.com/superRaytin/puzzler)  一个高效快速的前端页面切图工具
 - [扶朕起来，朕还能切](https://w3ctrain.com/2016/07/13/cut-image/)
 - [神器！解放你的双手——UI设计稿全自动切图和标注的工具推荐](https://github.com/jawil/blog/issues/11)
+- [Device](https://material.io/tools/devices/) 手机设备尺寸一览
 
 
 ## 其它
