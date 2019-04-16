@@ -12,9 +12,11 @@ Chrome Tools
 
 - [Proxy SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) / [Proxy SwitchySharp](http://www.samabox.com/projects/chrome/switchy)  代理工具
 
-- [AdBlock](https://adblockplus.org/) & [Ghostery](https://www.ghostery.com/) & [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 广告拦截/隐私防护
+- [谷歌访问助手](http://www.ggfwzs.com/)
 
-- [tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) [油猴插件]( http://tampermonkey.net/ )  Chrome脚本应用商店, [脚本市场](https://greasyfork.org/zh-CN/scripts)
+- [AdBlock](https://adblockplus.org/) & [Ghostery](https://www.ghostery.com/) & [uBlock Origin](https://www.ublock.org/) 广告拦截/隐私防护
+
+- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) [油猴插件]( http://tampermonkey.net/ )  Chrome脚本应用商店, [脚本市场](https://greasyfork.org/zh-CN/scripts)  脚本仓库  
 
 - [Feedly](https://feedly.com/i/welcome) & [RSS Subscription Extension (by Google) ](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)  RSS阅读器
 
@@ -30,6 +32,16 @@ Chrome Tools
 
 - [Google Keep](https://keep.google.com)  记事和清单
 
+- [二维码生成器](http://t.cn/Ei3aeZ9)
+
+- [翻译侠](http://t.cn/Ei3aHGA)
+
+- [图流](http://t.cn/Ei3aCxU)
+
+- [阅读模式](http://t.cn/RNiFaDw)
+
+- [Chromoji - Emoji](http://t.cn/RhBrefI) 表情工具
+
 - [有道云笔记网页剪报](http://note.youdao.com/)
 
 - [有道词典Chrome划词插件](http://cidian.youdao.com/chromeplus/)
@@ -44,13 +56,17 @@ Chrome Tools
 
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) 标签页收集到一个标签里是否内存
 
+- [喵喵折](http://t.cn/EJVAtu9)
+
 > IT民工
 
 - [Gliffy Diagrams](https://www.gliffy.com/)  在线绘图工具
 
 - [SimilarWeb](https://www.similarweb.com/) 实时网站排名分析工具
 
-- [Octotree](https://github.com/buunguyen/octotree/) Github树形展示辅助工具  && [GayHub](https://github.com/jawil/GayHub)   
+- [Octotree](https://github.com/buunguyen/octotree/) && [GayHub](https://github.com/jawil/GayHub) &&  [GitCodeTree](https://gitee.com/inu1255/GitCodeTree)  Github树形展示辅助工具      
+
+- [Git History](http://t.cn/Ei3S5Dk)
 
 - [Android SDK Search](https://github.com/romannurik/AndroidSDKSearchExtension)  在线查看Android源码辅助工具
 
@@ -62,6 +78,8 @@ Chrome Tools
 
 - [Firebug](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)  
 
+- [JSONViewer](https://github.com/oppoic/JSONViewer/) 
+
 - [devdocs](http://devdocs.io/) [开源](https://github.com/Thibaut/devdocs),离线文档查看,类似[Mac](https://github.com/skyseraph/Soft-Tools/blob/master/docs/Mac.md)下的Dash和[Linux](https://github.com/skyseraph/Soft-Tools/blob/master/docs/Linux.md)下的Zeal, 客户端[devdocs-app](https://github.com/egoist/devdocs-app)
 
 
@@ -72,6 +90,8 @@ Chrome Tools
 - [知乎：你极力推荐的 Chrome 扩展有哪些？](https://www.zhihu.com/question/19594682/)
 
 - [私人珍藏的CHROME插件，吐血推荐](http://stormzhang.com/devtools/2016/01/15/google-chrome-extension/)
+
+- [crx4chrome](https://www.crx4chrome.com/) 荟萃
 
 
 
