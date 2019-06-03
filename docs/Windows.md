@@ -146,6 +146,7 @@ Windows Tools
 - [SourceInsight](https://www.sourceinsight.com/)
 - [cloc](http://cloc.sourceforge.net/) 代码行数统计
 - [MethodsCount](http://www.methodscount.com/) 开源项目代码行数和包Size统计
+- [cmder](https://cmder.net/) Window Cmd神器
 
 ## Windows配置
 
