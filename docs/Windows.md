@@ -41,7 +41,7 @@ Windows Tools
 - [picpick](http://ngwin.com/picpick)
 - [Launchy](https://www.launchy.net/)  快速启动工具(Windows/Linux)  (Alt+Space 启动快速搜索)
 - [Dual Monitor Taskbar](https://dual-monitor-taskbar.en.softonic.com)  Windows 双显示器任务栏设置
-- [7-Zip](https://www.7-zip.org/) 压缩软件
+- [bandizip](https://www.bandisoft.com/bandizip/)， [7-Zip](https://www.7-zip.org/) 压缩软件
 - [PotPlayer](https://potplayer.daum.net/) 本地视频播放器
 - [QTTabBar](http://qttabbar.sourceforge.net/) 文件资源管理器的标签插件，类似 Clover 但更强大
 - [PanDownload](https://pandownload.com/faq/about.html) 第三方百度云盘客户端，可提取直链绕过限速
