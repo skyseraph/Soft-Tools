@@ -47,6 +47,8 @@ Mac Soft Tools
 
 - [m-cli](https://github.com/rgcr/m-cli) Swiss Army Knife for macOS
 
+- [Parallels Desktop]() Mac上的虚拟机环境  
+
 ## 开发相关
 
 - [Java](http://www.oracle.com/cn/index.html) Java版本管理工具[jEnv](https://github.com/gcuisinier/jenv)
@@ -106,6 +108,8 @@ Mac Soft Tools
 
 - [awesome-mac](https://github.com/AllAwsome/awesome-mac)  Awesome
 
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+
 - [macOS (OS X) 平台上有哪些值得推荐的常用软件？](https://www.zhihu.com/question/19550256)
 
 - [程序员如何优雅地使用macOS？](https://www.zhihu.com/question/20873070)
@@ -117,5 +121,11 @@ Mac Soft Tools
 - [my-mac-os](https://github.com/nikitavoloboev/my-mac-os)
 
 - [toolinbox](https://toolinbox.net/)
+
+- [精品MAC应用分享](https://xclient.info/)
+
+- [未来Mac下载](http://mac.orsoon.com/)
+
+- [WaitsUn](https://www.waitsun.com/)
 
 
