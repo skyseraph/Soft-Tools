@@ -80,6 +80,8 @@ Chrome Tools
 
 - [JSONViewer](https://github.com/oppoic/JSONViewer/) 
 
+- [ShowIp](https://chrome.google.com/webstore/detail/showip/agoljmemkbciolpigpabjfkagboolkcj)  
+
 - [devdocs](http://devdocs.io/) [开源](https://github.com/Thibaut/devdocs),离线文档查看,类似[Mac](https://github.com/skyseraph/Soft-Tools/blob/master/docs/Mac.md)下的Dash和[Linux](https://github.com/skyseraph/Soft-Tools/blob/master/docs/Linux.md)下的Zeal, 客户端[devdocs-app](https://github.com/egoist/devdocs-app)
 
 
