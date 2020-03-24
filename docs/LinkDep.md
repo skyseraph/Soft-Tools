@@ -104,7 +104,7 @@
 
 ### 码农必备
 
-- [Github](https://github.com/)
+
 - [Stackoverflow](http://stackoverflow.com/)
 - [Google developers](https://developers.google.cn/)
 - [Goole codelabs](https://codelabs.developers.google.com)
@@ -116,6 +116,19 @@
 - [openhub](https://www.openhub.net/)
 - [domcomp](https://www.domcomp.com) 域名比较
 - [onepagelove](https://onepagelove.com/templates/free-templates) 单页网站设计
+
+> 代码写作
+- [Github](https://github.com/)
+- [Gitee](https://gitee.com/)
+- [Coding](https://coding.net/)
+- [GitLab](https://about.gitlab.com/)
+
+> 算法
+- [LeetCode](https://leetcode.com/)   
+- [LeetCode cn](https://leetcode-cn.com/)    
+- [LintCode](https://www.lintcode.com/)    
+- [VisuAlgo](https://visualgo.net/zh)    
+- [Algorithm Visualizer](https://algorithm-visualizer.org/)    
 
 ### 创业必备
 
