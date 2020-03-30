@@ -49,6 +49,8 @@ Mac Soft Tools
 
 - [Parallels Desktop]() Mac上的虚拟机环境  
 
+- [Mounty for NTFS](https://mounty.app/)  MacOS下NTFS格式的硬盘读写
+
 ## 开发相关
 
 - [Java](http://www.oracle.com/cn/index.html) Java版本管理工具[jEnv](https://github.com/gcuisinier/jenv)
@@ -82,6 +84,16 @@ Mac Soft Tools
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)
 
 - [iPic](https://itunes.apple.com/cn/app/id1101244278?mt=12)   [图床神器](https://toolinbox.net/iPic/)
+
+- [Postman](https://www.postman.com/)
+
+- [Redis Desktop Manager](https://redisdesktop.com/) Redis 的客户端管理软件
+
+- [VisualVM](https://visualvm.github.io/) JVM 监控客户端
+
+- [Docker Desktop](https://www.docker.com/products/docker-desktop)
+
+- [kitematic](https://kitematic.com/)
 
 ## 实用技巧
 
