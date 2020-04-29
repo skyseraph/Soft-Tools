@@ -129,6 +129,42 @@ Reverse Tools
 
 - [iOSOpenDev](http://www.iosopendev.com/)
 
+## Windows
+- [OllyDbg](http://www.ollydbg.de/version2.html) x86调试器
+
+- [WinDbg](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools) 微软多用途调试器
+
+- [IDA](https://www.hex-rays.com/products/ida/index.shtml)
+
+- [APIMonitor](http://www.rohitab.com/apimonitor)
+
+- [PCHunter](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
+
+- [ProcExp](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+
+- [ProcMon](https://www.bleepingcomputer.com/download/pc-hunter/)
+
+- [Mimikatz](https://github.com/gentilkiwi/mimikatz) A little tool to play with Windows security
+
+## Network
+- [WireShark](https://www.wireshark.org/) 抓包工具
+
+- [Fiddler](https://www.telerik.com/fiddler) 抓包工具
+
+- [nmap](https://nmap.org/) 网络扫描工具
+
+- [netcat](https://eternallybored.org/misc/netcat/) 网络渗透
+
+- [Nessus](https://zh-cn.tenable.com/products/nessus) 漏洞扫描工具
+
+- [SQLMap](http://sqlmap.org/)
+
+- [hydra]() 自动化爆破的工具
+
+- [shodan]() 搜索引擎
+
+- [zoomeye](http://www.zoomeye.org/) IP信息
+
 
 ## Others
 
