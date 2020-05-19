@@ -33,9 +33,12 @@ Windows Tools
 
 > 实用工具
 
-- [Everything](http://www.voidtools.com/) 全盘文件搜索工具  
-- [Listary](http://www.listary.com/) 文件搜索增强工具，类似 Everything 
+- [Everything](http://www.voidtools.com/) 全盘文件搜索工具   
+- [Listary](http://www.listary.com/) 文件搜索增强工具，类似 Everything ,双击 Ctrl 键调出 Listary 搜索栏  
+- [DocFetcher](http://docfetcher.sourceforge.net/en/download.html)  可以对文件内容进行搜索  
 - [FileLocator Pro](https://www.mythicsoft.com/filelocatorpro/) 文档全文内容搜索神器
+
+
 - [TeamViewer](https://www.teamviewer.com/zhCN/) 远程操作电脑工具
 - [Clover](http://ejie.me/) & [TotalCommander](http://www.ghisler.com/)  & [Q-Dir](http://www.softwareok.com/?Download=Q-Dir) & [QTTabBar](http://qttabbar.sourceforge.net/) 
 - [picpick](http://ngwin.com/picpick)
