@@ -64,6 +64,7 @@
 - [coding](https://coding.net/) Git
 - [TaoCode](http://code.taobao.org/) svn
 - [码云](https://git.oschina.net/) Git
+- [searchcode](https://searchcode.com/) 源码搜索引擎    
 
 > 项目管理
 
@@ -75,6 +76,12 @@
 - [ProcessOn](https://www.processon.com/)  在线作图
 - [Disqus](https://disqus.com/)  [laibili](http://www.laibili.com.cn)  评论
 - [幕布](https://mubu.com) 
+- [mvnrepository](http://mvnrepository.com ) maven    
+- [BinaryDoc for OpenJDK](https://openjdk.binarydoc.org/net.java/openjdk/)     
+- [Iconfont](https://www.iconfont.cn)  矢量图标库    
+- [Unsplash](https://unsplash.com ) 免费的图片分享网站    
+- [MySlide](https://myslide.cn/ ) PPT分享服务的平台    
+- [鸠摩搜书](https://www.jiumodiary.com/ )    
 
 ### 实用查询
 
