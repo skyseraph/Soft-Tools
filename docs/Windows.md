@@ -51,6 +51,12 @@ Windows Tools
 - [ManicTime](https://www.manictime.com) 时间管理软件，自动记录你的电脑操作
 - [Ditto](https://ditto-cp.sourceforge.io)  款强大的Windows剪贴板增强工具
 - [snipaste](https://zh.snipaste.com)  强大的截图工具
+- [Total Uninstall](https://www.martau.com/uninstaller-download.php)
+- [freedownloadmanager](https://www.freedownloadmanager.org/zh/)
+- [pandownload](https://pandownload.com/)
+- [雷电模拟器](https://www.ldmnq.com/)
+- [火绒](https://www.huorong.cn)
+- [BandiCam](https://www.bandicam.cn/) 录屏
 
 ## 办公相关
  
@@ -88,6 +94,7 @@ Windows Tools
 - [Windows Sysinternals](https://technet.microsoft.com/en-us/sysinternals/bb842062.aspx)
 - [apache-maven](http://maven.apache.org/download.cgi)
 - [keystore](http://keystore-explorer.org/downloads.html) 证书导入管理
+- [SwitchHosts](https://github.com/oldj/SwitchHosts) 用于快速切换 hosts 文件的小程序
 
 > **IDE篇**
 
@@ -133,6 +140,7 @@ Windows Tools
 - [RawCap](http://www.netresec.com/?page=RawCap) 
 - [process-explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 - [charles](https://www.charlesproxy.com/)  代理工具
+- [Postman](https://www.getpostman.com/apps) Developing APIs is hard.Postman makes it easy.
 
 > **终端/远程辅助工具**
 
@@ -150,6 +158,8 @@ Windows Tools
 - [cloc](http://cloc.sourceforge.net/) 代码行数统计
 - [MethodsCount](http://www.methodscount.com/) 开源项目代码行数和包Size统计
 - [cmder](https://cmder.net/) Window Cmd神器
+- [ConEmu](https://conemu.github.io/)
+
 
 ## Windows配置
 
