@@ -16,6 +16,7 @@
 - [NexT](https://github.com/iissnan/hexo-theme-next) 精于心，简于形     
 - [JSimple](https://github.com/tangkunyin/hexo-theme-jsimple) [JianShu](https://github.com/jiangmuzi/jianshu)  [Hipaper](https://github.com/iTimeTraveler/hexo-theme-hipaper) 简书风格   
 - [freemind](https://github.com/wzpan/hexo-theme-freemind)  
+- [hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis)
 
 ## Hexo 实用
 
