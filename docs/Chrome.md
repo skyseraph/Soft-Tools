@@ -58,6 +58,8 @@ Chrome Tools
 
 - [喵喵折](http://t.cn/EJVAtu9)
 
+- [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) RSS订阅辅助
+
 > IT民工
 
 - [Gliffy Diagrams](https://www.gliffy.com/)  在线绘图工具
