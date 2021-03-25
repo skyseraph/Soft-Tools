@@ -146,6 +146,9 @@ Reverse Tools
 
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz) A little tool to play with Windows security
 
+- [DIE-engine](https://github.com/horsicq/DIE-engine)
+
+
 ## Network
 - [WireShark](https://www.wireshark.org/) 抓包工具
 
