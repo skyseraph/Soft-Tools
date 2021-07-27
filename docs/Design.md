@@ -101,6 +101,13 @@
 - [神器！解放你的双手——UI设计稿全自动切图和标注的工具推荐](https://github.com/jawil/blog/issues/11)
 - [Device](https://material.io/tools/devices/) 手机设备尺寸一览
 
+## 素材
+- [免费正版素材库](www.pixabay.com)
+- [免费素材](www.pexels.com)
+- [抠图](https://www.gaoding.com/koutu)
+- [图标](http://www.iconfont.cn/)
+- [付费素材](www.500px.com)
+- [iSlide工具插件](https://www.islide.cc/)
 
 ## 其它
 
