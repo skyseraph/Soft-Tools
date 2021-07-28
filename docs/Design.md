@@ -108,6 +108,7 @@
 - [图标](http://www.iconfont.cn/)
 - [付费素材](www.500px.com)
 - [iSlide工具插件](https://www.islide.cc/)
+- [Best Design Resources for Developers](https://dev.to/suhailkakar/best-design-resources-for-developers-4f)
 
 ## 其它
 
