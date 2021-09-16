@@ -50,6 +50,7 @@ Windows Tools
 - [PanDownload](https://pandownload.com/faq/about.html) 第三方百度云盘客户端，可提取直链绕过限速
 - [ManicTime](https://www.manictime.com) 时间管理软件，自动记录你的电脑操作
 - [Ditto](https://ditto-cp.sourceforge.io)  款强大的Windows剪贴板增强工具
+- [SuperMemo](https://www.supermemo.com/), [Anki](https://apps.ankiweb.net/)    
 - [snipaste](https://zh.snipaste.com)  强大的截图工具
 - [Total Uninstall](https://www.martau.com/uninstaller-download.php)
 - [freedownloadmanager](https://www.freedownloadmanager.org/zh/)
