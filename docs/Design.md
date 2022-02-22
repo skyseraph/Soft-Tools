@@ -24,6 +24,8 @@
 
 - [幕布](https://mubu.com/)  在线
 
+- [sketch](www.sketch.com/)
+
 ## **产品设计**
 
 - [Axure](https://www.axure.com.cn/)  原型设计工具 [Axure中文网](https://www.axure.com.cn/category/axure/)
@@ -63,6 +65,10 @@
 
 > 绘图/编辑
 
+- [截图 snipaste](https://sipapp.io/)
+
+- [画图 excalidraw](https://excalidraw.com/)
+
 - [Adobe_Photoshop](http://www.adobe.com/cn/)
 
 - [Processon](https://www.processon.com/)  在线绘图
@@ -84,6 +90,8 @@
 - [ShareX](https://github.com/ShareX/ShareX)
 
 > 录屏/视频录制
+
+- [录屏gifox](https://gifox.io/) 
 
 - [Camtasia Studio](https://www.techsmith.com/camtasia.html) 专业的屏幕录制完全解决套件(录制教学视频的绝佳选择，后期处理强大)
 
@@ -110,11 +118,20 @@
 - [iSlide工具插件](https://www.islide.cc/)
 - [Best Design Resources for Developers](https://dev.to/suhailkakar/best-design-resources-for-developers-4f)
 
+## 在线笔记
+
+- [石墨文档](https://shimo.im/)  在线协作文档
+
+- [语雀](https://www.yuque.com/)
+
+- [腾讯文档](https://docs.qq.com/)
+
+- [wps](https://www.wps.cn/)
+
+
 ## 其它
 
 - [logoist(Mac)](http://www.syniumsoftware.com/logoist) Logo设计
-
-- [石墨文档](https://shimo.im/)  在线协作文档
 
 - [产品大牛](http://www.pmdaniu.com/)
 
