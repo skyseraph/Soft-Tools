@@ -54,6 +54,16 @@
 
 - [PxCook（像素大厨）](http://www.fancynode.com.cn/pxcook)
 
+- [Uizard](https://uizard.io/product/) 高效UI原型制作工具  
+
+- [Notion ](https://about.noticons.com/) 图表设计工具    
+
+- [Pixel Art](https://pixelart.liveblocks.app/) 多人像素画设计工具 Pixel Art   
+ 
+- [D4Designs](https://www.d4designs.studio/) 设计工具合集    
+
+- [linegraphmaker](https://linegraphmaker.co/) 折线图快速创建工具
+
 
 ## **图像绘图**
 
@@ -110,13 +120,17 @@
 - [Device](https://material.io/tools/devices/) 手机设备尺寸一览
 
 ## 素材
-- [免费正版素材库](www.pixabay.com)
-- [免费素材](www.pexels.com)
+- [免费正版素材库pixbay](www.pixabay.com)
+- [免费素材pexels](www.pexels.com)
 - [抠图](https://www.gaoding.com/koutu)
-- [图标](http://www.iconfont.cn/)
-- [付费素材](www.500px.com)
+- [图标iconfont](http://www.iconfont.cn/)
+- [付费素材500px](www.500px.com)
 - [iSlide工具插件](https://www.islide.cc/)
-- [Best Design Resources for Developers](https://dev.to/suhailkakar/best-design-resources-for-developers-4f)
+- [Best Design Resources for Developers](https://dev.to/suhailkakar/best-design-resources-for-developers-4f) 
+- [Kittl](https://www.kittl.com/)免费字体标签排版平台
+- [Ouch](https://icons8.com/illustrations) 大型插画素材库    
+- [iconer](https://iconer.app/) 免费大型小图标库 
+- [Fabpic](https://www.fabpic.app/) 免费图片快速包装工具     
 
 ## 在线笔记
 
